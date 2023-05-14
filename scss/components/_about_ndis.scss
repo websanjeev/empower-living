@@ -1,0 +1,18 @@
+.about-ndis-process{
+    padding: 35px 20px 28px;
+    border-radius: 20px;
+    display: block;
+    color: $dark;
+
+    img{
+        margin-bottom: 30px;
+    }
+
+    p{
+        font-size: 16px;
+    }
+
+    &:hover{
+        color: inherit;
+    }
+}

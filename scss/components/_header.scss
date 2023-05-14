@@ -1,0 +1,56 @@
+.top-navbar-wrapp {
+  padding: 10px 0;
+  background-color: $indigo;
+
+  .btn-icon .material-icons {
+    margin-right: 10px;
+  }
+
+  .search-wrapp {
+    width: 200px;
+
+    .form-control {
+      padding-left: 2.375rem;
+      border: 1px solid $teal;
+
+      ::placeholder{
+        font-size: 14px;
+      }
+    }
+
+    .form-control-feedback {
+      position: absolute;
+      z-index: 2;
+      display: block;
+      width: 2.375rem;
+      height: 2.375rem;
+      line-height: 2.375rem;
+      text-align: center;
+      pointer-events: none;
+      color: $dark;
+    }
+  }
+}
+
+.main-navbar-wrapp{
+  margin-bottom: 10px;
+
+    .empower-living{
+      width: 194px;
+      height: auto;
+      display: block;
+      
+      .empower-living img{
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+      }
+    }
+
+    .dropdown-menu {
+      position: absolute;
+      min-width: 1296px;
+      left: -500px;
+      top: 58px;
+  }
+}

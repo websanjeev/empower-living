@@ -1,0 +1,27 @@
+// overrides
+@import"components/color";
+@import"components/variables";
+@import"components/fonts";
+
+// import bootstrap
+@import"../node_modules/bootstrap/scss/bootstrap.scss";
+
+// components
+@import"components/reset";
+@import"components/header";
+@import"components/hero_banner";
+@import"components/available_services_home";
+@import"components/services_block";
+@import"components/empower_living";
+@import"components/about_ndis";
+@import"components/testimonials";
+
+// responsive
+@import"components/responsive";
+
+
+
+
+
+
+

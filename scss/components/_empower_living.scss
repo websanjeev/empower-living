@@ -1,0 +1,22 @@
+.listed-wrapp{
+    ul{
+        padding-left: 0;
+        margin-bottom: 0;
+
+        li{
+            list-style: none;
+            color: $white;
+            display: flex;
+            align-items: center;
+            margin-bottom: 12px;
+
+            span{
+                padding: 3px;
+                border-radius: 50%;
+                background-color: $primary;
+                font-size: 18px;
+                margin-right: 10px;
+            }
+        }
+    }
+}
