@@ -43,10 +43,12 @@ $input-bg: $white;
 
 
 
-$accordion-bg: $cyan;
-$accordion-color: $primary;
-$accordion-border-color: $cyan;
+$accordion-bg: $gray-200;
+$accordion-color: $dark;
+$accordion-border-color: $gray-200;
+$accordion-border-radius: 20px;
+
+$accordion-button-active-color: $secondary;
 
 $accordion-button-focus-box-shadow: transparent;
 
-$badge-font-weight: 600;

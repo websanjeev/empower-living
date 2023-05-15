@@ -1,10 +1,11 @@
-// services block matchHeight js
+// matchHeight js
 
     $('.services-block').matchHeight();
     $('.services-block h4').matchHeight();
     $('.services-block p').matchHeight();
 
     $('.about-ndis-process').matchHeight();
+    $('.testimonials-block').matchHeight();
 
 
     // testimonials js

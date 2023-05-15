@@ -52,48 +52,28 @@
           <ul>
             <li>
               <a href="#">
-                <span class="service-images"
-                  ><img
-                    src="assets/img/service-icons/Individualized-Living-Options.png"
-                    class="img-fluid"
-                    alt=""
-                  />
+                <span class="service-images"><img src="assets/img/service-icons/Individualized-Living-Options.png" class="img-fluid" alt="" />
                 </span>
                 <span>Individualized Living Options (ILO)</span>
               </a>
             </li>
             <li>
               <a href="#">
-                <span class="service-images"
-                  ><img
-                    src="assets/img/service-icons/Short-Term-Accommodation-Respite.png"
-                    class="img-fluid"
-                    alt=""
-                  />
+                <span class="service-images"><img src="assets/img/service-icons/Short-Term-Accommodation-Respite.png" class="img-fluid" alt="" />
                 </span>
                 <span>Short Term Accommodation (STA)/ Respite</span>
               </a>
             </li>
             <li>
               <a href="#">
-                <span class="service-images"
-                  ><img
-                    src="assets/img/service-icons/Cleaning.png"
-                    class="img-fluid"
-                    alt=""
-                  />
+                <span class="service-images"><img src="assets/img/service-icons/Cleaning.png" class="img-fluid" alt="" />
                 </span>
                 <span>Cleaning</span>
               </a>
             </li>
             <li>
               <a href="#">
-                <span class="service-images"
-                  ><img
-                    src="assets/img/service-icons/Life-Skills-Training.png"
-                    class="img-fluid"
-                    alt=""
-                  />
+                <span class="service-images"><img src="assets/img/service-icons/Life-Skills-Training.png" class="img-fluid" alt="" />
                 </span>
                 <span>Life Skills Training</span>
               </a>
@@ -106,48 +86,28 @@
       <ul>
         <li>
           <a href="#">
-            <span class="service-images"
-              ><img
-                src="assets/img/service-icons/High-Personal-Complex-Care.png"
-                class="img-fluid"
-                alt=""
-              />
+            <span class="service-images"><img src="assets/img/service-icons/High-Personal-Complex-Care.png" class="img-fluid" alt="" />
             </span>
             <span>High Personal & Complex Care</span>
           </a>
         </li>
         <li>
           <a href="#">
-            <span class="service-images"
-              ><img
-                src="assets/img/service-icons/Case-Management.png"
-                class="img-fluid"
-                alt=""
-              />
+            <span class="service-images"><img src="assets/img/service-icons/Case-Management.png" class="img-fluid" alt="" />
             </span>
             <span>Case Management</span>
           </a>
         </li>
         <li>
           <a href="#">
-            <span class="service-images"
-              ><img
-                src="assets/img/service-icons/Medium-Term-Accommodation.png"
-                class="img-fluid"
-                alt=""
-              />
+            <span class="service-images"><img src="assets/img/service-icons/Medium-Term-Accommodation.png" class="img-fluid" alt="" />
             </span>
             <span>Medium Term Accommodation (MTA)</span>
           </a>
         </li>
         <li>
           <a href="#">
-            <span class="service-images"
-              ><img
-                src="assets/img/service-icons/Support-Coordination.png"
-                class="img-fluid"
-                alt=""
-              />
+            <span class="service-images"><img src="assets/img/service-icons/Support-Coordination.png" class="img-fluid" alt="" />
             </span>
             <span>Support Coordination</span>
           </a>
@@ -160,30 +120,18 @@
         <div class="row">
           <div class="col-sm-12 col-md-4">
             <div class="services-block brown">
-              <img
-                src="assets/img/pexels-photo-71630682.png"
-                class="img-flud"
-                alt=""
-              />
+              <img src="assets/img/pexels-photo-71630682.png" class="img-flud" alt="" />
               <h4>Supported Independent Living (SIL)</h4>
               <p>Empowering Independence through supported living</p>
               <div class="d-flex align-items-center justify-content-between">
-                <a class="btn btn-primary" href="#" role="button"
-                  >View houses</a
-                >
-                <a class="btn btn-outline-primary" href="#" role="button"
-                  >Learn more</a
-                >
+                <a class="btn btn-primary" href="#" role="button">View houses</a>
+                <a class="btn btn-outline-primary" href="#" role="button">Learn more</a>
               </div>
             </div>
           </div>
           <div class="col-sm-12 col-md-4">
             <div class="services-block secondary">
-              <img
-                src="assets/img/photo-1478061653917-455ba7f4a5412.png"
-                class="img-flud"
-                alt=""
-              />
+              <img src="assets/img/photo-1478061653917-455ba7f4a5412.png" class="img-flud" alt="" />
               <h4>Community Access</h4>
               <p>Connecting you to the world around you.</p>
               <div class="d-grid">
@@ -193,11 +141,7 @@
           </div>
           <div class="col-sm-12 col-md-4">
             <div class="services-block indigo">
-              <img
-                src="assets/img/istockphoto-470618414-612x6121.png"
-                class="img-flud"
-                alt=""
-              />
+              <img src="assets/img/istockphoto-470618414-612x6121.png" class="img-flud" alt="" />
               <h4>Higher-Intensity Mental Health Support</h4>
               <p>Maximizing Well-Being with Expert Support</p>
               <div class="d-grid">
@@ -291,34 +235,34 @@
   <div class="container-fluid">
     <div class="inner-row brown">
       <h2 class="heading mb-3 text-white">About NDIS & Process</h2>
-      <p class="text-white w-75 text-center mx-auto mb-5">As a leading NDIS provider with over 30 years experience, we’re here to help you live the way you 
+      <p class="text-white w-75 text-center mx-auto mb-5">As a leading NDIS provider with over 30 years experience, we’re here to help you live the way you
         choose. How to apply for NDIS cover.</p>
-        <div class="row">
-          <div class="col-sm-12 col-md-4">
-            <a href="#" class="about-ndis-process indigo text-center">
-              <img src="assets/img/NDIS-icon.svg" class="img-fluid" alt="">
-              <h4>About NDIS</h4>
-              <p class="mb-0">An Australian government-funded scheme that provides support and funding to 
-                people with permanent and significant disabilities.</p>
-            </a>
-          </div>
-          <div class="col-sm-12 col-md-4">
-            <a href="#" class="about-ndis-process indigo text-center">
-              <img src="assets/img/6-steps-icon.svg" class="img-fluid" alt="">
-              <h4>NDIS in 6 Easy Steps</h4>
-              <p class="mb-0">While the NDIS application process can be complex, here are some basic 
-                steps to get started:</p>
-            </a>
-          </div>
-          <div class="col-sm-12 col-md-4">
-            <a href="#" class="about-ndis-process indigo text-center">
-              <img src="assets/img/FAQs-icon.svg" class="img-fluid" alt="">
-              <h4>NDIS FAQs</h4>
-              <p class="mb-0">Have questions about the NDIS, your plan or funding? Our FAQs 
-                may hold the answers you're looking for.</p>
-            </a>
-          </div>
+      <div class="row">
+        <div class="col-sm-12 col-md-4">
+          <a href="#" class="about-ndis-process indigo text-center">
+            <img src="assets/img/NDIS-icon.svg" class="img-fluid" alt="">
+            <h4>About NDIS</h4>
+            <p class="mb-0">An Australian government-funded scheme that provides support and funding to
+              people with permanent and significant disabilities.</p>
+          </a>
         </div>
+        <div class="col-sm-12 col-md-4">
+          <a href="#" class="about-ndis-process indigo text-center">
+            <img src="assets/img/6-steps-icon.svg" class="img-fluid" alt="">
+            <h4>NDIS in 6 Easy Steps</h4>
+            <p class="mb-0">While the NDIS application process can be complex, here are some basic
+              steps to get started:</p>
+          </a>
+        </div>
+        <div class="col-sm-12 col-md-4">
+          <a href="#" class="about-ndis-process indigo text-center">
+            <img src="assets/img/FAQs-icon.svg" class="img-fluid" alt="">
+            <h4>NDIS FAQs</h4>
+            <p class="mb-0">Have questions about the NDIS, your plan or funding? Our FAQs
+              may hold the answers you're looking for.</p>
+          </a>
+        </div>
+      </div>
     </div>
   </div>
 </section>
@@ -327,38 +271,108 @@
   <div class="container">
     <h2 class="heading mb-5">What our clients say</h2>
     <div class="testimonials-items">
-        <div class="testimonials-block indigo">
-          <img src="assets/img/quote.svg" class="img-fluid" alt="">
-          <p>The NDIS has done wonders for people with disability and their family.  
-            Invest in and empower people with disability by supporting them to achieve their goals and 
-            participate in the community and economy.</p>
-            <span class="clients-name">Brandon Aokiji</span>
-            <span class="clients-add">Canberra, Aus</span>
+      <div class="testimonials-block indigo">
+        <img src="assets/img/quote.svg" class="img-fluid" alt="">
+        <p>The NDIS has done wonders for people with disability and their family.
+          Invest in and empower people with disability by supporting them to achieve their goals and
+          participate in the community and economy.</p>
+        <span class="clients-name">Brandon Aokiji</span>
+        <span class="clients-add">Canberra, Aus</span>
+      </div>
+      <div class="testimonials-block gray-200">
+        <img src="assets/img/quote.svg" class="img-fluid" alt="">
+        <p>The NDIS has done wonders for people with disability and their family.
+          Invest in and empower people with disability by supporting them to achieve their goals and
+          participate in the community and economy.</p>
+        <span class="clients-name">Brandon Aokiji</span>
+        <span class="clients-add">Canberra, Aus</span>
+      </div>
+      <div class="testimonials-block gray-300">
+        <img src="assets/img/quote.svg" class="img-fluid" alt="">
+        <p>The NDIS has done wonders for people with disability and their family.
+          Invest in and empower people with disability by supporting them to achieve their goals and
+          participate in the community and economy.</p>
+        <span class="clients-name">Brandon Aokiji</span>
+        <span class="clients-add">Canberra, Aus</span>
+      </div>
+      <div class="testimonials-block indigo">
+        <img src="assets/img/quote.svg" class="img-fluid" alt="">
+        <p>The NDIS has done wonders for people with disability and their family.
+          Invest in and empower people with disability by supporting them to achieve their goals and
+          participate</p>
+        <span class="clients-name">Brandon Aokiji</span>
+        <span class="clients-add">Canberra, Aus</span>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- ================================== -->
+<section class="section-row">
+  <div class="container">
+    <h2 class="heading mb-5">Frequently asked questions</h2>
+    <div class="asked-questions-wrapp">
+      <div class="accordion" id="accordionExample">
+        <div class="accordion-item">
+          <h2 class="accordion-header" id="headingOne">
+            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+              <span>What types of support does NDIS funding cover?</span>
+            </button>
+          </h2>
+          <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+            <div class="accordion-body">
+              <p>Supports and services delivered for NDIS participants should help people with disability have the same things in life as other people, like somewhere to live, a job, hobbies and the company of families and friends.</p>
+            </div>
+          </div>
         </div>
-        <div class="testimonials-block gray-200">
-          <img src="assets/img/quote.svg" class="img-fluid" alt="">
-          <p>The NDIS has done wonders for people with disability and their family.  
-            Invest in and empower people with disability by supporting them to achieve their goals and 
-            participate in the community and economy.</p>
-            <span class="clients-name">Brandon Aokiji</span>
-            <span class="clients-add">Canberra, Aus</span>
+        <div class="accordion-item">
+          <h2 class="accordion-header" id="headingTwo">
+            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+              <span>Does the NDIS cover the cost of medical care like diagnostic assessments, treatment, medication, hospital/GP visits or Medicare gap fees?</span>
+            </button>
+          </h2>
+          <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+            <div class="accordion-body">
+              <p>Supports and services delivered for NDIS participants should help people with disability have the same things in life as other people, like somewhere to live, a job, hobbies and the company of families and friends.</p>
+            </div>
+          </div>
         </div>
-        <div class="testimonials-block gray-300">
-          <img src="assets/img/quote.svg" class="img-fluid" alt="">
-          <p>The NDIS has done wonders for people with disability and their family.  
-            Invest in and empower people with disability by supporting them to achieve their goals and 
-            participate in the community and economy.</p>
-            <span class="clients-name">Brandon Aokiji</span>
-            <span class="clients-add">Canberra, Aus</span>
+        <div class="accordion-item">
+          <h2 class="accordion-header" id="headingThree">
+            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+              <span>Are the Disability Support Pension and the NDIS linked?</span>
+            </button>
+          </h2>
+          <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
+            <div class="accordion-body">
+              <p>Supports and services delivered for NDIS participants should help people with disability have the same things in life as other people, like somewhere to live, a job, hobbies and the company of families and friends.</p>
+            </div>
+          </div>
         </div>
-        <div class="testimonials-block indigo">
-          <img src="assets/img/quote.svg" class="img-fluid" alt="">
-          <p>The NDIS has done wonders for people with disability and their family.  
-            Invest in and empower people with disability by supporting them to achieve their goals and 
-            participate in the community and economy.</p>
-            <span class="clients-name">Brandon Aokiji</span>
-            <span class="clients-add">Canberra, Aus</span>
+        <div class="accordion-item">
+          <h2 class="accordion-header" id="headingFour">
+            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+              <span>What types of support does NDIS funding cover?</span>
+            </button>
+          </h2>
+          <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionExample">
+            <div class="accordion-body">
+              <p>Supports and services delivered for NDIS participants should help people with disability have the same things in life as other people, like somewhere to live, a job, hobbies and the company of families and friends.</p>
+            </div>
+          </div>
         </div>
+        <div class="accordion-item">
+          <h2 class="accordion-header" id="headingFive">
+            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+              <span>Are the Disability Support Pension and the NDIS linked?</span>
+            </button>
+          </h2>
+          <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#accordionExample">
+            <div class="accordion-body">
+              <p>Supports and services delivered for NDIS participants should help people with disability have the same things in life as other people, like somewhere to live, a job, hobbies and the company of families and friends.</p>
+            </div>
+          </div>
+        </div>
+      </div>
     </div>
   </div>
 </section>

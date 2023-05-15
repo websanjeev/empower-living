@@ -1,0 +1,41 @@
+.asked-questions-wrapp{
+    .accordion-item{
+        margin-bottom: 12px;
+        border-radius: 20px;
+    }
+    .accordion-button:not(.collapsed){
+        background-color: $gray-200;
+        color: $secondary;
+        font-size: 24px;
+        padding-bottom: 0;
+        border-top-left-radius: 20px;
+        border-top-right-radius: 20px;
+    }
+    .accordion-body p{
+        margin-bottom: 0;
+    }
+    .accordion-button{
+        border-radius: 20px;
+        align-items: self-start;
+
+        &:after{
+            background-image: none;
+            content: "\e145";
+            font-family: "Material Icons";
+            font-size: 24px;
+        }
+
+        span {
+            margin-right: 10px;
+        }
+        &:not(.collapsed):after{
+            content: "\e5cd";
+            font-family: "Material Icons";
+            font-size: 24px;
+        }
+    }
+    .accordion-item:last-of-type{
+        margin-bottom: 0 !important;
+    }
+}
+

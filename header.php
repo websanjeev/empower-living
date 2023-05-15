@@ -17,6 +17,7 @@
     <link rel="stylesheet" href="assets/css/style.css" />
   </head>
   <body>
+    <header>
     <section class="top-navbar-wrapp">
       <div class="container">
         <div class="d-flex justify-content-end">
@@ -169,5 +170,6 @@
       </nav>
     </section>
     <!-- ====================================== -->
+    </header>
   </body>
 </html>
