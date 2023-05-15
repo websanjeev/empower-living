@@ -8,8 +8,8 @@
 
 
     // testimonials js
-    $('.multiple-items').slick({
-        infinite: true,
+    $('.testimonials-items').slick({
+        infinite: false,
         slidesToShow: 3,
         slidesToScroll: 3
       });

@@ -1,23 +1,66 @@
-.testimonidal-block{
-    padding: 25px;
-    border-radius: 20px;
+.testimonials-block {
+  padding: 25px;
+  border-radius: 20px;
 
-    img{
-        margin-bottom: 20px;
-    }
+  img {
+    margin-bottom: 20px;
+  }
 
-    p{
-        font-size: 24px;
-        margin-bottom: 28px;
-    }
-    .clients-name{
-        display: block;
-        font-size: 20px;
-        color: $dark;
-        margin-bottom: 8px;
-    }
-    .clients-add{
-        font-size: 16px;
-        color: $gray-100;
-    }
+  p {
+    font-size: 24px;
+    margin-bottom: 28px;
+  }
+  .clients-name {
+    display: block;
+    font-size: 20px;
+    color: $dark;
+    margin-bottom: 8px;
+  }
+  .clients-add {
+    font-size: 16px;
+    color: $gray-100;
+  }
+}
+.testimonials-items {
+  .slick-next::before,
+  .slick-prev::before {
+    color: $secondary;
+  }
+
+  .slick-next {
+    right: -40px;
+  }
+  .slick-prev {
+    left: -70px;
+  }
+  // .slick-next, .slick-prev{
+  //     width: 100px;
+  //     height: 100px;
+  // }
+  // .slick-slide:focus{
+  //     outline: none;
+  // }
+  .slick-prev::before {
+    content: "\f1e6";
+    font-family: "Material Icons";
+    font-size: 24px;
+    padding: 10px;
+    border: 2px solid $secondary;
+    border-radius: 15px;
+  }
+  .slick-next::before {
+    content: "\f1df";
+    font-family: "Material Icons";
+    font-size: 24px;
+    padding: 10px;
+    border: 2px solid $secondary;
+    border-radius: 15px;
+  }
+
+  .slick-list {
+    margin: 0 0;
+  }
+  .slick-slide {
+    margin: 0 10px;
+  }
 }

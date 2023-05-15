@@ -326,8 +326,8 @@
 <section class="section-row">
   <div class="container">
     <h2 class="heading mb-5">What our clients say</h2>
-    <div class="multiple-items">
-        <div class="testimonidal-block indigo">
+    <div class="testimonials-items">
+        <div class="testimonials-block indigo">
           <img src="assets/img/quote.svg" class="img-fluid" alt="">
           <p>The NDIS has done wonders for people with disability and their family.  
             Invest in and empower people with disability by supporting them to achieve their goals and 
@@ -335,7 +335,7 @@
             <span class="clients-name">Brandon Aokiji</span>
             <span class="clients-add">Canberra, Aus</span>
         </div>
-        <div class="testimonidal-block gray-200">
+        <div class="testimonials-block gray-200">
           <img src="assets/img/quote.svg" class="img-fluid" alt="">
           <p>The NDIS has done wonders for people with disability and their family.  
             Invest in and empower people with disability by supporting them to achieve their goals and 
@@ -343,7 +343,7 @@
             <span class="clients-name">Brandon Aokiji</span>
             <span class="clients-add">Canberra, Aus</span>
         </div>
-        <div class="testimonidal-block gray-300">
+        <div class="testimonials-block gray-300">
           <img src="assets/img/quote.svg" class="img-fluid" alt="">
           <p>The NDIS has done wonders for people with disability and their family.  
             Invest in and empower people with disability by supporting them to achieve their goals and 
@@ -351,7 +351,7 @@
             <span class="clients-name">Brandon Aokiji</span>
             <span class="clients-add">Canberra, Aus</span>
         </div>
-        <div class="testimonidal-block indigo">
+        <div class="testimonials-block indigo">
           <img src="assets/img/quote.svg" class="img-fluid" alt="">
           <p>The NDIS has done wonders for people with disability and their family.  
             Invest in and empower people with disability by supporting them to achieve their goals and 

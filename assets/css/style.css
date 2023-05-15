@@ -11172,26 +11172,59 @@ textarea.form-control-lg {
   color: inherit;
 }
 
-.testimonidal-block {
+.testimonials-block {
   padding: 25px;
   border-radius: 20px;
 }
-.testimonidal-block img {
+.testimonials-block img {
   margin-bottom: 20px;
 }
-.testimonidal-block p {
+.testimonials-block p {
   font-size: 24px;
   margin-bottom: 28px;
 }
-.testimonidal-block .clients-name {
+.testimonials-block .clients-name {
   display: block;
   font-size: 20px;
   color: #212121;
   margin-bottom: 8px;
 }
-.testimonidal-block .clients-add {
+.testimonials-block .clients-add {
   font-size: 16px;
   color: #484848;
+}
+
+.testimonials-items .slick-next::before,
+.testimonials-items .slick-prev::before {
+  color: #4748be;
+}
+.testimonials-items .slick-next {
+  right: -40px;
+}
+.testimonials-items .slick-prev {
+  left: -70px;
+}
+.testimonials-items .slick-prev::before {
+  content: "\f1e6";
+  font-family: "Material Icons";
+  font-size: 24px;
+  padding: 10px;
+  border: 2px solid #4748be;
+  border-radius: 15px;
+}
+.testimonials-items .slick-next::before {
+  content: "\f1df";
+  font-family: "Material Icons";
+  font-size: 24px;
+  padding: 10px;
+  border: 2px solid #4748be;
+  border-radius: 15px;
+}
+.testimonials-items .slick-list {
+  margin: 0 0;
+}
+.testimonials-items .slick-slide {
+  margin: 0 10px;
 }
 
 /*# sourceMappingURL=style.css.map */
