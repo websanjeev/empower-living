@@ -1,17 +1,17 @@
 {
-  "name": "Examsite",
+  "name": "Empower",
   "version": "1.0.0",
-  "description": "Examsite",
+  "description": "Empower",
   "main": "index.js",
   "scripts": {
     "compile:sass": "sass --watch scss:assets/css"
   },
   "keywords": [
     "Bootstrap",
-    "Examsite",
+    "Empower",
     "sass",
-    "Examsite",
-    "Examsite"
+    "Empower",
+    "Empower"
   ],
   "author": "sanjeev yadav",
   "license": "ISC",

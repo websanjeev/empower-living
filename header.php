@@ -7,9 +7,7 @@
     <title>Empower Living</title>
     <!-- ========== Material icons  -->
     <link rel="stylesheet"
-      href="https://fonts.googleapis.com/icon?family=Material+Icons"
-      
-    />
+      href="https://fonts.googleapis.com/icon?family=Material+Icons"/>
     <!-- ========= Slick carousel -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick-theme.min.css">

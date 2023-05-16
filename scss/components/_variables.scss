@@ -25,22 +25,25 @@ $btn-border-radius: 20px;
 $btn-border-radius-sm: 12px;
 $btn-border-radius-lg: 12px;
 
-$btn-padding-y: 13px;
+$btn-padding-y: 15px;
 $btn-padding-x: 25px;
+
 
 $btn-font-size: 20px;
 $btn-font-weight: 500;
 
-$btn-padding-y-sm: 3px;
-$btn-padding-x-sm: 15px;
-
-$btn-font-size-sm: 14px;
+$btn-font-size-sm: 20px;
 
 $input-border-radius: 20px;
-$input-border-radius-sm: 12px;
-$input-focus-box-shadow: transparent;
-$input-bg: $white;
+$input-border-radius-lg:  20px;
+$input-border-radius-sm:  12px;
 
+$input-padding-y-lg: 13px;
+
+$input-focus-box-shadow: transparent;
+$input-bg: $gray-500;
+$input-placeholder-color: $teal;
+$input-border-color: $gray-600;
 
 
 $accordion-bg: $gray-200;

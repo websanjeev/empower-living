@@ -12,6 +12,14 @@
     padding: 40px 0;
 }
 
+.search-wrapp{
+    ::placeholder{
+        font-size: 16px;
+      }
+}
+::placeholder{
+    font-size: 20px;
+  }
 
 .heading{
     text-align: center;
