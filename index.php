@@ -175,55 +175,57 @@
 <!-- ================================== -->
 <section class="mb-3">
   <div class="container-fluid">
-    <div class="inner-row secondary">
-      <h2 class="heading mb-5 text-white">
-        Why choose <span class="text-primary">Empower Living?</span>
-      </h2>
-      <div class="row">
-        <div class="col-sm-12 col-md-8">
-          <div class="text-white">
-            <p>
-              At Empower Living, we strive to create a safe and supportive
-              environment for our clients. Our experienced care professionals
-              will provide comprehensive support while respecting your need for
-              independence.
-            </p>
-            <p>
-              We offer 24-hour supervision, nutritional meals, recreational
-              activities, and assistance with medication management and other
-              medical needs. Additionally, we have an onsite nurse available to
-              answer any questions and concerns you may have.
-            </p>
+    <div class="section-row-medium rounded-4 secondary">
+      <div class="container">
+        <h2 class="heading mb-5 text-white">
+          Why choose <span class="text-primary">Empower Living?</span>
+        </h2>
+        <div class="row">
+          <div class="col-sm-12 col-md-8">
+            <div class="text-white">
+              <p>
+                At Empower Living, we strive to create a safe and supportive
+                environment for our clients. Our experienced care professionals
+                will provide comprehensive support while respecting your need for
+                independence.
+              </p>
+              <p>
+                We offer 24-hour supervision, nutritional meals, recreational
+                activities, and assistance with medication management and other
+                medical needs. Additionally, we have an onsite nurse available to
+                answer any questions and concerns you may have.
+              </p>
+            </div>
           </div>
-        </div>
-        <div class="col-sm-12 col-md-4">
-          <div class="listed-wrapp">
-            <ul>
-              <li>
-                <span class="material-icons"> check </span> No Set-up Or Exit
-                Fees
-              </li>
-              <li>
-                <span class="material-icons"> check </span> Free Personalised
-                Care Plans
-              </li>
-              <li>
-                <span class="material-icons"> check </span> Care From 1 to 24
-                Hours Per Day
-              </li>
-              <li>
-                <span class="material-icons"> check </span> Live-in Care
-                Available
-              </li>
-              <li>
-                <span class="material-icons"> check </span> Can Start On The
-                Same Day
-              </li>
-              <li>
-                <span class="material-icons"> check </span> Live-in Care
-                Available
-              </li>
-            </ul>
+          <div class="col-sm-12 col-md-4">
+            <div class="listed-wrapp">
+              <ul>
+                <li>
+                  <span class="material-icons"> check </span> No Set-up Or Exit
+                  Fees
+                </li>
+                <li>
+                  <span class="material-icons"> check </span> Free Personalised
+                  Care Plans
+                </li>
+                <li>
+                  <span class="material-icons"> check </span> Care From 1 to 24
+                  Hours Per Day
+                </li>
+                <li>
+                  <span class="material-icons"> check </span> Live-in Care
+                  Available
+                </li>
+                <li>
+                  <span class="material-icons"> check </span> Can Start On The
+                  Same Day
+                </li>
+                <li>
+                  <span class="material-icons"> check </span> Live-in Care
+                  Available
+                </li>
+              </ul>
+            </div>
           </div>
         </div>
       </div>
@@ -233,34 +235,36 @@
 <!-- ================================== -->
 <section class="mb-5">
   <div class="container-fluid">
-    <div class="inner-row brown">
-      <h2 class="heading mb-3 text-white">About NDIS & Process</h2>
-      <p class="text-white w-75 text-center mx-auto mb-5">As a leading NDIS provider with over 30 years experience, we’re here to help you live the way you
-        choose. How to apply for NDIS cover.</p>
-      <div class="row">
-        <div class="col-sm-12 col-md-4">
-          <a href="#" class="about-ndis-process indigo text-center">
-            <img src="assets/img/NDIS-icon.svg" class="img-fluid" alt="">
-            <h4>About NDIS</h4>
-            <p class="mb-0">An Australian government-funded scheme that provides support and funding to
-              people with permanent and significant disabilities.</p>
-          </a>
-        </div>
-        <div class="col-sm-12 col-md-4">
-          <a href="#" class="about-ndis-process indigo text-center">
-            <img src="assets/img/6-steps-icon.svg" class="img-fluid" alt="">
-            <h4>NDIS in 6 Easy Steps</h4>
-            <p class="mb-0">While the NDIS application process can be complex, here are some basic
-              steps to get started:</p>
-          </a>
-        </div>
-        <div class="col-sm-12 col-md-4">
-          <a href="#" class="about-ndis-process indigo text-center">
-            <img src="assets/img/FAQs-icon.svg" class="img-fluid" alt="">
-            <h4>NDIS FAQs</h4>
-            <p class="mb-0">Have questions about the NDIS, your plan or funding? Our FAQs
-              may hold the answers you're looking for.</p>
-          </a>
+    <div class="section-row-medium brown">
+      <div class="container">
+        <h2 class="heading mb-3 text-white">About NDIS & Process</h2>
+        <p class="text-white w-75 text-center mx-auto mb-5">As a leading NDIS provider with over 30 years experience, we’re here to help you live the way you
+          choose. How to apply for NDIS cover.</p>
+        <div class="row">
+          <div class="col-sm-12 col-md-4">
+            <a href="#" class="about-ndis-process indigo text-center">
+              <img src="assets/img/NDIS-icon.svg" class="img-fluid" alt="">
+              <h4>About NDIS</h4>
+              <p class="mb-0">An Australian government-funded scheme that provides support and funding to
+                people with permanent and significant disabilities.</p>
+            </a>
+          </div>
+          <div class="col-sm-12 col-md-4">
+            <a href="#" class="about-ndis-process indigo text-center">
+              <img src="assets/img/6-steps-icon.svg" class="img-fluid" alt="">
+              <h4>NDIS in 6 Easy Steps</h4>
+              <p class="mb-0">While the NDIS application process can be complex, here are some basic
+                steps to get started:</p>
+            </a>
+          </div>
+          <div class="col-sm-12 col-md-4">
+            <a href="#" class="about-ndis-process indigo text-center">
+              <img src="assets/img/FAQs-icon.svg" class="img-fluid" alt="">
+              <h4>NDIS FAQs</h4>
+              <p class="mb-0">Have questions about the NDIS, your plan or funding? Our FAQs
+                may hold the answers you're looking for.</p>
+            </a>
+          </div>
         </div>
       </div>
     </div>
