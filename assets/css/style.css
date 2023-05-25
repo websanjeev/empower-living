@@ -10998,7 +10998,7 @@ textarea.form-control-lg {
 }
 .main-navbar-wrapp .dropdown-menu {
   position: absolute;
-  min-width: 1296px;
+  min-width: 1000px;
   left: -500px;
   top: 58px;
 }
