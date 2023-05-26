@@ -3,6 +3,7 @@
 <section class="section">
   <div class="container-fluid">
     <div class="inner-banner-wrapp brown rounded-4">
+      <div class="container">
     <div class="inner-banner-content">
       <div class="inner-banner-content-left">
         <h2>Supported Independent Living (SIL)</h2>
@@ -20,6 +21,7 @@
         <img src="assets/img/Supported-Independent-Living-img.png" class="img-fluid" alt="">
       </div>
     </div>
+      </div>
     </div>
   </div>
 </section>

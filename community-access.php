@@ -3,17 +3,19 @@
 <section class="section">
   <div class="container-fluid">
     <div class="inner-banner-wrapp secondary rounded-4">
-      <div class="inner-banner-content">
-        <div class="inner-banner-content-left">
-          <h2>Community Access</h2>
-          <p>Connecting you to the world around you.</p>
-          <button class="btn btn-primary d-flex align-items-center me-3" role="button">
-            <span>Call at</span> <span class="material-icons me-2 ms-2">call</span>
-            <span>1300 456 245</span>
-          </button>
-        </div>
-        <div class="inner-banner-content-right">
-          <img src="assets/img/services/photo-1478061653917-455ba7f4a5413.png" class="img-fluid" alt="">
+      <div class="container">
+        <div class="inner-banner-content">
+          <div class="inner-banner-content-left">
+            <h2>Community Access</h2>
+            <p>Connecting you to the world around you.</p>
+            <button class="btn btn-primary d-flex align-items-center me-3" role="button">
+              <span>Call at</span> <span class="material-icons me-2 ms-2">call</span>
+              <span>1300 456 245</span>
+            </button>
+          </div>
+          <div class="inner-banner-content-right">
+            <img src="assets/img/services/photo-1478061653917-455ba7f4a5413.png" class="img-fluid" alt="">
+          </div>
         </div>
       </div>
     </div>
@@ -55,13 +57,25 @@
             <div class="listed-wrapp">
               <ul>
                 <li>
-                  <span class="material-icons"> check </span> You must meet the disability requirements and qualify for an NDIS plan.
+                  <span class="material-icons"> check </span> You must be an Australian citizen, a resident of Australia, and a permanent visa holder.
                 </li>
                 <li>
-                  <span class="material-icons"> check </span> You must be assessed as needing support to live independently in your home or with family or friends.
+                  <span class="material-icons"> check </span> You must be disabled as a result of an impairment.
                 </li>
                 <li>
-                  <span class="material-icons"> check </span> You must be able to participate in an assessment of your needs and goals to develop a tailored support plan.
+                  <span class="material-icons"> check </span> You must be between the ages of 7 and 65.
+                </li>
+                <li>
+                  <span class="material-icons"> check </span> Your disability limits your capacity to work, study, or participate in social activities.
+                </li>
+                <li>
+                  <span class="material-icons"> check </span> You’ll likely require NDIS supports your entire life
+                </li>
+                <li>
+                  <span class="material-icons"> check </span> The intention helps you pursue your goals and maintain functional capacity
+                </li>
+                <li>
+                  <span class="material-icons"> check </span> It meets reasonable and necessary criteria.
                 </li>
               </ul>
             </div>
@@ -76,17 +90,17 @@
   <div class="container section-row">
     <div class="row">
       <div class="col-sm-12 col-md-4">
-        <h3>Why choose us?</h3>
+        <h3>Why We Should Be Your Community Access Provider</h3>
       </div>
       <div class="col-sm-12 col-md-8">
-        <p class="fs-5">At Empower Living, we provide our clients with the highest level of care. Our team of highly trained
-          and experienced professionals is dedicated to helping you live a safe, meaningful, and independent
-          life. We understand that everyone's needs differ and will work with you to create a plan tailored to
-          your specific goals.</p>
-        <p class="mb-0">With our expertise in assisting individuals with disabilities, you can be assured that your safety
-          and well-being are our top priority. We strive to provide the best service possible so you can live
-          on your terms. Contact us today to learn more about how we can help you experience the freedom of
-          Supported Independent Living!`</p>
+        <p class="fs-5">Disability affects all of us in some way. Disability is often isolating and silencing, but with support and thoughtful access to community life,
+          you can live a more prosperous, empowered life. </p>
+        <p class="mb-0">Empower Living will empower you to access the fundamental elements you need to lead a meaningful life – access to daily living needs like meals, health 
+          services, transport and leisure activities, and physical and mental well-being supports. </p>
+        <p>We believe everyone should have the same social opportunities regardless of ability or identity, so we strive for deeper community connectedness so that you can feel 
+          empowered and involved. </p>
+        <p>We are here to help you live independently by providing choice and control in your NDIS plan and creating an environment where you and other participants can feel safe,
+           healthy, secure, and connected.</p>
       </div>
     </div>
   </div>
