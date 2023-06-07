@@ -1,0 +1,22 @@
+.card-box-wrapper {
+  padding: 40px 0;
+}
+.card-box {
+  height: 100%;
+  padding: 40px 28px;
+  background-color: $indigo;
+  border-radius: 20px;
+
+  span {
+    padding: 12px 28px;
+    background-color: $primary;
+    font-weight: 700;
+    font-size: 28px;
+    border-radius: 100px;
+    margin-bottom: 20px;
+    display: inline-block;
+  }
+  p {
+    margin-bottom: 0;
+  }
+}

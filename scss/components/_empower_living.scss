@@ -7,7 +7,7 @@
             list-style: none;
             color: $white;
             display: flex;
-            align-items: center;
+            align-items: self-start;
             margin-bottom: 12px;
 
             span{
@@ -18,5 +18,10 @@
                 margin-right: 10px;
             }
         }
+    }
+}
+.listed-wrapp.dark{
+    li{
+        color: $dark;
     }
 }
