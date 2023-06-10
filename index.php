@@ -273,7 +273,7 @@
 <!-- ================================== -->
 <section class="section-row">
   <div class="container">
-    <h2 class="heading mb-5">What our clients say</h2>
+    <h2 class="heading mb-5">More nearby potential houses</h2>
     <div class="testimonials-items">
       <div class="testimonials-block indigo">
         <img src="assets/img/quote.svg" class="img-fluid" alt="">

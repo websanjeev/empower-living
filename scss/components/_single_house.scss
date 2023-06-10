@@ -1,0 +1,125 @@
+
+.single-house-article-head {
+    display: flex;
+    justify-content: space-between;
+
+    .single-house-article-head-left{
+        p{
+            display: flex;
+    
+            span{
+                margin-right: 12px;
+                color: $secondary;
+            }
+        }
+    }
+    .single-house-article-head-right{
+        p{
+            display: flex;
+            color: $secondary;
+
+            span{
+                margin-right: 12px;
+            }
+        }
+    }
+    
+}
+.house-item{
+    height: 450px;
+    border-radius: 20px;
+    overflow: hidden;
+
+    img{
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
+}
+
+.house-slide-wrapp {
+    margin-bottom: 40px;
+
+    .slick-next::before,
+    .slick-prev::before {
+      color: $secondary;
+      background: rgba(255, 255, 255, 0.6);
+    }
+  
+    .slick-next {
+      right: 60px;
+    }
+    .slick-prev {
+        left: 30px;
+        z-index: 1;
+    }
+    .slick-prev::before {
+      content: "\f1e6";
+      font-family: "Material Icons";
+      font-size: 20px;
+      padding: 10px;
+      border: 2px solid $secondary;
+      border-radius: 15px;
+    }
+    .slick-next::before {
+      content: "\f1df";
+      font-family: "Material Icons";
+      font-size: 20px;
+      padding: 10px;
+      border: 2px solid $secondary;
+      border-radius: 15px;
+    }
+  
+    .slick-list {
+      margin: 0 0;
+    }
+    // .slick-slide {
+    //   margin: 0 10px;
+    // }
+  }
+
+  .single-house-right{
+    padding: 40px 28px;
+    background-color: $indigo;
+    border-radius: 20px;
+  }
+
+
+  .card-house-items {
+
+    .slick-next::before,
+    .slick-prev::before {
+      color: $white;
+      background: transparent;
+    }
+  
+    .slick-next {
+        right: -50px;
+    }
+    .slick-prev {
+        left: -80px;
+    }
+    .slick-prev::before {
+      content: "\f1e6";
+      font-family: "Material Icons";
+      font-size: 20px;
+      padding: 10px;
+      border: 2px solid $white;
+      border-radius: 15px;
+    }
+    .slick-next::before {
+      content: "\f1df";
+      font-family: "Material Icons";
+      font-size: 20px;
+      padding: 10px;
+      border: 2px solid $white;
+      border-radius: 15px;
+    }
+  
+    .slick-list {
+      margin: 0 0;
+    }
+    .slick-slide {
+      margin: 0 10px;
+    }
+  }

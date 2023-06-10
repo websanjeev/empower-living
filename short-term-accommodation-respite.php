@@ -122,7 +122,7 @@
         <h3 class="text-white">Your potential houses in Canberra</h3>
         <div class="row">
           <div class="col-sm-12 col-md-4">
-            <a href="#" class="card-house-wrapp">
+            <a href="single-house.php" class="card-house-wrapp">
               <div class="card-house-image-wrapp">
                 <img src="assets/img/house/1.png" class="img-fluid" alt="">
               </div>
@@ -131,7 +131,7 @@
             </a>
           </div>
           <div class="col-sm-12 col-md-4">
-            <a href="#" class="card-house-wrapp">
+            <a href="single-house.php" class="card-house-wrapp">
               <div class="card-house-image-wrapp">
                 <img src="assets/img/house/2.png" class="img-fluid" alt="">
               </div>
@@ -140,7 +140,7 @@
             </a>
           </div>
           <div class="col-sm-12 col-md-4">
-            <a href="#" class="card-house-wrapp">
+            <a href="single-house.php" class="card-house-wrapp">
               <div class="card-house-image-wrapp">
                 <img src="assets/img/house/3.png" class="img-fluid" alt="">
               </div>
@@ -149,7 +149,7 @@
             </a>
           </div>
           <div class="col-sm-12 col-md-4">
-            <a href="#" class="card-house-wrapp">
+            <a href="single-house.php" class="card-house-wrapp">
               <div class="card-house-image-wrapp">
                 <img src="assets/img/house/1.png" class="img-fluid" alt="">
               </div>
@@ -158,7 +158,7 @@
             </a>
           </div>
           <div class="col-sm-12 col-md-4">
-            <a href="#" class="card-house-wrapp">
+            <a href="single-house.php" class="card-house-wrapp">
               <div class="card-house-image-wrapp">
                 <img src="assets/img/house/2.png" class="img-fluid" alt="">
               </div>
@@ -167,7 +167,7 @@
             </a>
           </div>
           <div class="col-sm-12 col-md-4">
-            <a href="#" class="card-house-wrapp">
+            <a href="single-house.php" class="card-house-wrapp">
               <div class="card-house-image-wrapp">
                 <img src="assets/img/house/3.png" class="img-fluid" alt="">
               </div>
@@ -176,7 +176,7 @@
             </a>
           </div>
           <div class="col-sm-12 col-md-4">
-            <a href="#" class="card-house-wrapp">
+            <a href="single-house.php" class="card-house-wrapp">
               <div class="card-house-image-wrapp">
                 <img src="assets/img/house/1.png" class="img-fluid" alt="">
               </div>
@@ -185,7 +185,7 @@
             </a>
           </div>
           <div class="col-sm-12 col-md-4">
-            <a href="#" class="card-house-wrapp">
+            <a href="single-house.php" class="card-house-wrapp">
               <div class="card-house-image-wrapp">
                 <img src="assets/img/house/2.png" class="img-fluid" alt="">
               </div>
