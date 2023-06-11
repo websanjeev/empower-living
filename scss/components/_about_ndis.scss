@@ -1,18 +1,41 @@
-.about-ndis-process{
-    padding: 35px 20px 28px;
-    border-radius: 20px;
-    display: block;
-    color: $dark;
+.about-ndis-process {
+  padding: 35px 20px 28px;
+  border-radius: 20px;
+  display: block;
+  color: $dark;
 
-    img{
-        margin-bottom: 30px;
+  img {
+    margin-bottom: 30px;
+  }
+
+  p {
+    font-size: 16px;
+  }
+
+  &:hover {
+    color: inherit;
+  }
+}
+
+.section-ndis {
+  padding: 60px 40px;
+
+  .ndis-left-wrapp {
+    color: $white;
+    span {
+      display: inline-block;
+      width: 100px;
+      height: 100px;
+      margin-bottom: 15px;
+
+      img{
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+      }
     }
-
     p{
-        font-size: 16px;
+        margin-bottom: 0;
     }
-
-    &:hover{
-        color: inherit;
-    }
+  }
 }

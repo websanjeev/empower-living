@@ -15,7 +15,7 @@
             </div>
         </div>
 
-        <div class="row">
+        <div class="row gx-3">
             <div class="col-sm-12 col-md-8">
                 <div class="single-house-article-wrapp">
                     <div class="house-slide-wrapp">
@@ -74,6 +74,7 @@
             </div>
             <div class="col-sm-12 col-md-4">
                 <div class="single-house-right">
+                    <img src="assets/img/flag-green.png"  class="img-fluid" alt="">
                     <h3>Interested in touring this house?</h3>
                     <p>Provide your details and we'll send you some information and resources to help with the application process.</p>
                     <a class="btn btn-primary" href="#" role="button">Visit this house
@@ -90,7 +91,6 @@
       <div class="container">
         <h3 class="text-white">Your potential houses in Canberra</h3>
         <div class="card-house-items">
-
             <div class="card-house-wrapp" style="height: 360.391px;">
               <div class="card-house-image-wrapp">
                 <img src="assets/img/house/1.png" class="img-fluid" alt="">

@@ -25,7 +25,7 @@
             </h2>
             <p class="text-center mx-auto text-white">We’re hiring and we want you to join our team! Apply now.</p>
             <div class="btn-wrapper">
-              <button class="btn btn-primary d-flex align-items-center me-3" role="button">
+              <button class="btn btn-primary" role="button">
                 Join Now
               </button>
             </div>

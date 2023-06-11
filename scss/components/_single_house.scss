@@ -73,15 +73,19 @@
     .slick-list {
       margin: 0 0;
     }
-    // .slick-slide {
-    //   margin: 0 10px;
-    // }
   }
 
   .single-house-right{
     padding: 40px 28px;
     background-color: $indigo;
     border-radius: 20px;
+
+    img {
+      width: 100px;
+      height: 100%;
+      object-fit: cover;
+      margin-bottom: 20px;
+    }
   }
 
 
