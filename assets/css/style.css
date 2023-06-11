@@ -3691,8 +3691,8 @@ textarea.form-control-lg {
   --bs-nav-link-padding-x: 1rem;
   --bs-nav-link-padding-y: 0.5rem;
   --bs-nav-link-font-weight: ;
-  --bs-nav-link-color: var(--bs-link-color);
-  --bs-nav-link-hover-color: var(--bs-link-hover-color);
+  --bs-nav-link-color: #212121;
+  --bs-nav-link-hover-color: #212121;
   --bs-nav-link-disabled-color: #BDBDBD;
   display: flex;
   flex-wrap: wrap;
@@ -3764,7 +3764,7 @@ textarea.form-control-lg {
 .nav-pills {
   --bs-nav-pills-border-radius: 0.375rem;
   --bs-nav-pills-link-active-color: #ffffff;
-  --bs-nav-pills-link-active-bg: #ffb34e;
+  --bs-nav-pills-link-active-bg: #4748be;
 }
 .nav-pills .nav-link {
   background: none;
@@ -11616,6 +11616,62 @@ textarea.form-control-lg {
 }
 .card-house-items .slick-slide {
   margin: 0 10px;
+}
+
+.ndis-stepes-head {
+  padding: 0 150px;
+  margin-bottom: 70px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.ndis-stepes-head .stepes-image-wrapp img {
+  width: 100px;
+  height: 100%;
+  object-fit: cover;
+  margin-right: 50px;
+}
+.ndis-stepes-head .stepes-content-wrapp {
+  flex: 1;
+}
+
+.stepes-wrapp {
+  max-width: 793px;
+  padding: 40px 50px;
+  border-radius: 20px;
+  background-color: #EEEEEE;
+}
+.stepes-wrapp .stepes-icon-wrapp {
+  width: 75px;
+  height: 75px;
+  margin-right: 30px;
+}
+.stepes-wrapp .stepes-icon-wrapp img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.stepes-wrapp .stepes-content-wrapp {
+  flex: 1;
+}
+.stepes-wrapp .stepes-content-wrapp .head {
+  color: #4748be;
+  font-weight: 500;
+  display: block;
+  margin-bottom: 15px;
+}
+.stepes-wrapp .stepes-content-wrapp p span {
+  color: #02bf92;
+}
+
+.faq-wrapper .nav-pills .nav-link {
+  text-align: left;
+  margin-bottom: 20px;
+  border-radius: 15px;
+  padding: 15px;
+}
+.faq-wrapper .tab-content {
+  flex: 1;
 }
 
 /*# sourceMappingURL=style.css.map */

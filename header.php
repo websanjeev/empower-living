@@ -43,7 +43,7 @@
     <section class="main-navbar-wrapp">
       <nav class="navbar navbar-expand-lg">
         <div class="container">
-          <a class="navbar-brand empower-living" href="#"
+          <a class="navbar-brand empower-living" href="index.php"
             ><img src="assets/img/empower-living.svg" class="img-fluid" alt=""
           /></a>
           <button
@@ -135,10 +135,10 @@
                   NDIS
                 </a>
                 <ul class="dropdown-menu">
-                  <li><a class="dropdown-item" href="#">Action</a></li>
-                  <li><a class="dropdown-item" href="#">Another action</a></li>
+                  <li><a class="dropdown-item" href="ndis.php">National Disability Insurance Scheme (NDIS)</a></li>
+                  <li><a class="dropdown-item" href="ndis-stepes.php">NDIS in 6 Easy Steps</a></li>
                   <li>
-                    <a class="dropdown-item" href="#">Something else here</a>
+                    <a class="dropdown-item" href="ndis-faq.php">NDIS FAQs</a>
                   </li>
                 </ul>
               </li>
