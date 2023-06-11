@@ -154,10 +154,10 @@
                   About
                 </a>
                 <ul class="dropdown-menu">
-                  <li><a class="dropdown-item" href="#">Action</a></li>
-                  <li><a class="dropdown-item" href="#">Another action</a></li>
+                  <li><a class="dropdown-item" href="about-empower-living.php">About Empower Living</a></li>
+                  <li><a class="dropdown-item" href="vision-mission.php">Vision, Mission & Purpose</a></li>
                   <li>
-                    <a class="dropdown-item" href="#">Something else here</a>
+                    <a class="dropdown-item" href="leadership-team.php">Leadership Team</a>
                   </li>
                 </ul>
               </li>
