@@ -11674,4 +11674,39 @@ textarea.form-control-lg {
   flex: 1;
 }
 
+.about-inner-banner {
+  text-align: center;
+}
+.about-inner-banner h2, .about-inner-banner .h2 {
+  color: #ffffff;
+  margin-bottom: 60px;
+}
+.about-inner-banner h2 span, .about-inner-banner .h2 span {
+  color: #ffb34e;
+}
+
+.about-empower-block-wrapp {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+.about-empower-block-wrapp .empower-block {
+  color: #ffffff;
+  text-align: center;
+}
+.about-empower-block-wrapp .empower-block .empower-icon-wrapp {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 55px;
+  height: 55px;
+  background-color: #ffffff;
+  border-radius: 50%;
+  margin: 0 auto 12px;
+}
+.about-empower-block-wrapp .empower-block .empower-icon-wrapp span {
+  font-size: 32px;
+  color: #02bf92;
+}
+
 /*# sourceMappingURL=style.css.map */

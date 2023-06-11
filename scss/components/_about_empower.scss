@@ -1,0 +1,38 @@
+.about-inner-banner {
+  text-align: center;
+
+  h2 {
+    color: $white;
+    margin-bottom: 60px;
+
+    span {
+      color: $primary;
+    }
+  }
+}
+.about-empower-block-wrapp {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+
+  .empower-block {
+    color: $white;
+    text-align: center;
+
+    .empower-icon-wrapp {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      width: 55px;
+      height: 55px;
+      background-color: $white;
+      border-radius: 50%;
+      margin: 0 auto 12px;
+
+      span {
+        font-size: 32px;
+        color: $gray;
+      }
+    }
+  }
+}
