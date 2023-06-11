@@ -11623,7 +11623,6 @@ textarea.form-control-lg {
   margin-bottom: 70px;
   display: flex;
   align-items: center;
-  justify-content: space-between;
 }
 .ndis-stepes-head .stepes-image-wrapp img {
   width: 100px;
@@ -11707,6 +11706,18 @@ textarea.form-control-lg {
 .about-empower-block-wrapp .empower-block .empower-icon-wrapp span {
   font-size: 32px;
   color: #02bf92;
+}
+
+.about-head {
+  padding: 0 150px;
+  margin-bottom: 70px;
+  text-align: center;
+}
+.about-head span.material-icons {
+  color: #02bf92;
+  font-size: 52px;
+  vertical-align: middle;
+  margin-right: 20px;
 }
 
 /*# sourceMappingURL=style.css.map */

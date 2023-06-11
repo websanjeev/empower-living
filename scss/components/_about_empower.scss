@@ -36,3 +36,16 @@
     }
   }
 }
+
+.about-head {
+  padding: 0 150px;
+  margin-bottom: 70px;
+  text-align: center;
+
+  span.material-icons{
+    color: $gray;
+    font-size: 52px;
+    vertical-align: middle;
+    margin-right: 20px;
+  }
+}

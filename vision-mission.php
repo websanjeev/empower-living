@@ -1,62 +1,114 @@
 <?php include 'header.php'; ?>
 <!-- ================================== -->
-<section class="section">
-  <div class="container-fluid">
-    <div class="section-row-medium green rounded-4">
-      <div class="container">
-        <div class="about-inner-banner">
-          <h2>A team of <span>energized, committed</span> & <span>dedicated</span> individuals working together to enhance lives.</h2>
-        </div>
-        <div class="about-empower-block-wrapp">
-          <div class="empower-block">
-            <div class="empower-icon-wrapp">
-              <span class="material-icons">people_outline</span>
-            </div>
-            <h3>100+</h3>
-            <p>Certified Staffs</p>
-          </div>
-
-          <div class="empower-block">
-            <div class="empower-icon-wrapp">
-              <span class="material-icons">verified</span>
-            </div>
-            <h3>200+</h3>
-            <p>Satisfied Clients</p>
-          </div>
-
-          <div class="empower-block">
-            <div class="empower-icon-wrapp">
-              <span class="material-icons">verified_user</span>
-            </div>
-            <h3>2017</h3>
-            <p>Year Founded</p>
-          </div>
-
-        </div>
-      </div>
-    </div>
-  </div>
-  </div>
-</section>
-<!-- ================================== -->
-<section class="section-row-large pb-5">
+<section class="section-row-medium pt-5">
   <div class="container">
-    <div class="row">
-      <div class="col-sm-12 col-md-4">
-        <h3>About Empower Living</h3>
-      </div>
-      <div class="col-sm-12 col-md-8">
-        <p class="fs-5">Empower Living is an inspiring organization in the Australian community, bringing together a team of young professionals dedicated to realizing, respecting, and upholding the human rights, independence and freedom of all people with disabilities, while supporting the individuals and their families to enhance their quality of life.</p>
-        <p>We aspire to change lives positively and are dedicated to being one of the best providers in the area.</p>
-        <p>Our reputation as a NDIS support provider is built on valuing the dreams of our participants (clients), empowering them to achieve what was perceived to be impossible, and accompanying them and their families in changing their lives for the better.</p>
-        <h4>We take pride in our holistic approach to care, assist, support and connect individuals and professionals with a personalised plan that is developed and tailored to their needs.</h4>
-        <p class="fs-5">Our skilled team will not only inspire and empower you but will also help you see things from a new perspective, encouraging you to dream big and not let your disability define you.</p>
-        <p>From participants to staff members, Empower Living as a whole is passionate about guiding, supporting, and empowering individuals and creating opportunities for personal and professional skills development.</p>
-        <p>Our biggest goal is to impact lives by building bridges and connections, and we are genuinely committed to helping our clients achieve the impossible.</p>
-        <p>Join us at Empower Living, where we acknowledge every victory, celebrate diversity, inspire independence and empower people with disability to live their life to their fullest potential!.</p>
-        <p class="fs-5 mb-0">Together, let’s make the impossible possible!</p>
+    <div class="about-head">
+      <h2>Live Better, Reach Higher <br>  
+        <span class="material-icons">sentiment_satisfied </span> 
+        <span class="text-primary">Empowering You</span>
+      </h2>
+    </div>
+
+    <div class="d-flex justify-content-start mb-4">
+      <div class="stepes-wrapp d-flex">
+        <div class="stepes-icon-wrapp">
+          <img src="assets/img/icons/vision.png" class="img-fluid" alt="">
+        </div>
+        <div class="stepes-content-wrapp">
+          <h4>Vision</h4>
+          <p class="mb-0">Empower Living believes in a fair and inclusive society, where all individuals, 
+            from all backgrounds and with any challenges are recognized, valued and appreciated for what they bring.</p>
+        </div>
       </div>
     </div>
+
+    <div class="d-flex justify-content-end mb-4">
+      <div class="stepes-wrapp d-flex">
+        <div class="stepes-icon-wrapp">
+          <img src="assets/img/icons/purpose.png" class="img-fluid" alt="">
+        </div>
+        <div class="stepes-content-wrapp">
+          <h4>Purpose</h4>
+          <p class="mb-0">Empower Living is passionate about about meaningfully impacting lives of people in 
+            the Australian community, creating opportunities where it seemed unthinkable, educating the 
+            society and create bridges to open new and broader horizons.</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="d-flex justify-content-start mb-4">
+      <div class="stepes-wrapp d-flex">
+        <div class="stepes-icon-wrapp">
+          <img src="assets/img/icons/mission.png" class="img-fluid" alt="">
+        </div>
+        <div class="stepes-content-wrapp">
+          <h4>Mission</h4>
+          <p class="mb-0">Empower Living’s mission is to aspire, guide and accompany people with disabilities 
+            in their journey towards more independence, freedom and happiness through new perspectives and support.</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="d-flex justify-content-end mb-4">
+      <div class="stepes-wrapp d-flex">
+        <div class="stepes-icon-wrapp">
+          <img src="assets/img/icons/values.png" class="img-fluid" alt="">
+        </div>
+        <div class="stepes-content-wrapp">
+          <h4>Values</h4>
+          <p class="mb-0">Empower Living takes pride in the values that underlie in all aspects of their approach</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="d-flex justify-content-start mb-4">
+      <div class="stepes-wrapp d-flex">
+        <div class="stepes-icon-wrapp">
+          <img src="assets/img/icons/trust.png" class="img-fluid" alt="">
+        </div>
+        <div class="stepes-content-wrapp">
+          <h4>Trust</h4>
+          <p class="mb-0">Honesty, Genuineness and Consistency will slowly build the trust for successful interactions</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="d-flex justify-content-end mb-4">
+      <div class="stepes-wrapp d-flex">
+        <div class="stepes-icon-wrapp">
+          <img src="assets/img/icons/respect.png" class="img-fluid" alt="">
+        </div>
+        <div class="stepes-content-wrapp">
+          <h4>Respect</h4>
+          <p class="mb-0">Listening, Acknowledging, Valuing each individual in their entirety will ensure fairness and respect in all relationships </p>
+        </div>
+      </div>
+    </div>
+
+    <div class="d-flex justify-content-start mb-4">
+      <div class="stepes-wrapp d-flex">
+        <div class="stepes-icon-wrapp">
+          <img src="assets/img/icons/empowerment.png" class="img-fluid" alt="">
+        </div>
+        <div class="stepes-content-wrapp">
+          <h4>Empowerment</h4>
+          <p class="mb-0">Trust, Respect and Confidence will be at the base of the empowerment process</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="d-flex justify-content-end">
+      <div class="stepes-wrapp d-flex">
+        <div class="stepes-icon-wrapp">
+          <img src="assets/img/icons/independence.png" class="img-fluid" alt="">
+        </div>
+        <div class="stepes-content-wrapp">
+          <h4>Independence</h4>
+          <p class="mb-0">Self-confidence, Inclusivity and Empowerment will lead to more independence in daily lives </p>
+        </div>
+      </div>
+    </div>
+
   </div>
 </section>
 <!-- ================================== -->
