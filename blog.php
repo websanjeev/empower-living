@@ -18,7 +18,7 @@
             <h3>Disability Podcasts You Need to Listen to</h3>
             <span>April 3, 2023</span>
             <div>
-              <a class="btn btn-primary" href="#" role="button"> Read Story
+              <a class="btn btn-primary" href="blog-single.php" role="button"> Read Story
                 <span class="material-icons ms-2"> arrow_forward </span>
               </a>
             </div>

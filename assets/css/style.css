@@ -10962,6 +10962,10 @@ textarea.form-control-lg {
   color: #212121 !important;
 }
 
+.white {
+  background-color: #ffffff;
+}
+
 .top-navbar-wrapp {
   padding: 10px 0;
   background-color: #97b9ff;
@@ -11778,8 +11782,8 @@ textarea.form-control-lg {
   height: 100%;
   object-fit: cover;
 }
-.blog-post-wrapper .blog-post-thumb span {
-  color: #4748be;
+.blog-post-wrapper .blog-post-thumb h4, .blog-post-wrapper .blog-post-thumb .h4 {
+  margin-bottom: 20px;
 }
 
 .load-more span {
@@ -11851,6 +11855,62 @@ textarea.form-control-lg {
   margin: 0 0;
 }
 .resources-items .slick-slide {
+  margin: 0 10px;
+}
+
+.blog-single-wrapper {
+  max-width: 795px;
+  margin: 0 auto;
+}
+.blog-single-wrapper .blog-single-head {
+  margin-bottom: 60px;
+}
+.blog-single-wrapper .blog-single-head .back {
+  display: block;
+  margin-bottom: 40px;
+}
+.blog-single-wrapper .blog-single-head .back span {
+  display: inline-block;
+  vertical-align: middle;
+}
+.blog-single-wrapper img {
+  border-radius: 20px;
+  margin-bottom: 40px;
+}
+.blog-single-wrapper h4, .blog-single-wrapper .h4 {
+  margin-bottom: 20px;
+}
+
+.blogs-items .slick-next::before,
+.blogs-items .slick-prev::before {
+  color: #4748be;
+}
+.blogs-items .slick-next {
+  right: -40px;
+}
+.blogs-items .slick-prev {
+  left: -70px;
+}
+.blogs-items .slick-prev::before {
+  content: "\f1e6";
+  font-family: "Material Icons";
+  font-size: 24px;
+  padding: 10px;
+  border: 2px solid #4748be;
+  border-radius: 15px;
+}
+.blogs-items .slick-next::before {
+  content: "\f1df";
+  font-family: "Material Icons";
+  font-size: 24px;
+  padding: 10px;
+  border: 2px solid #4748be;
+  border-radius: 15px;
+}
+.blogs-items .slick-list {
+  margin: 0 0;
+}
+.blogs-items .slick-slide {
   margin: 0 10px;
 }
 
