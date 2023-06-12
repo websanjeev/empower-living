@@ -36,3 +36,13 @@
       autoplay: true,
       autoplaySpeed: 4000
     });
+
+
+     // resources js
+     $('.resources-items').slick({
+      infinite: true,
+      slidesToShow: 2,
+      slidesToScroll: 2,
+      autoplay: true,
+      autoplaySpeed: 4000
+    });

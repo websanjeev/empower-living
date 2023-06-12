@@ -163,7 +163,7 @@
               </li>
 
               <li class="nav-item">
-                <a class="nav-link" href="#">Blog</a>
+                <a class="nav-link" href="blog.php">Blog</a>
               </li>
             </ul>
             <a
