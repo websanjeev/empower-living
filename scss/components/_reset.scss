@@ -12,6 +12,13 @@
 }
 // ======================================= //
 
+.btn-block{
+    display: inline-block;
+    span{
+        vertical-align: middle;
+    }
+}
+
 .search-wrapp{
     ::placeholder{
         font-size: 16px;
