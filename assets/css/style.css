@@ -10914,6 +10914,10 @@ textarea.form-control-lg {
   padding: 40px 0;
 }
 
+.form-select-lg {
+  font-size: 20px;
+}
+
 .btn-block {
   display: inline-block;
 }
@@ -12001,6 +12005,38 @@ textarea.form-control-lg {
   border-bottom: none;
   margin-bottom: 0;
   padding-bottom: 0;
+}
+
+.referral-wrapper {
+  max-width: 795px;
+  margin: 0 auto;
+  padding: 40px;
+  border-radius: 20px;
+  background-color: #EEEEEE;
+}
+.referral-wrapper .form-control {
+  background-color: #ffffff;
+}
+.referral-wrapper h4, .referral-wrapper .h4 {
+  margin-bottom: 40px;
+}
+.referral-wrapper .form-radio-wrapp {
+  display: flex;
+  align-items: center;
+}
+.referral-wrapper .form-radio-wrapp .form-control {
+  flex: 1;
+}
+.referral-wrapper .year-month-day-wrapp {
+  display: flex;
+}
+.referral-wrapper .year-month-day-wrapp select {
+  background-color: #ffffff;
+  width: 125px;
+  margin-right: 10px;
+}
+.referral-wrapper select {
+  background-color: #ffffff;
 }
 
 /*# sourceMappingURL=style.css.map */
