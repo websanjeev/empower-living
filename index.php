@@ -242,7 +242,7 @@
           choose. How to apply for NDIS cover.</p>
         <div class="row">
           <div class="col-sm-12 col-md-4">
-            <a href="#" class="about-ndis-process indigo text-center">
+            <a href="ndis.php" class="about-ndis-process indigo text-center">
               <img src="assets/img/NDIS-icon.svg" class="img-fluid" alt="">
               <h4>About NDIS</h4>
               <p class="mb-0">An Australian government-funded scheme that provides support and funding to
@@ -250,7 +250,7 @@
             </a>
           </div>
           <div class="col-sm-12 col-md-4">
-            <a href="#" class="about-ndis-process indigo text-center">
+            <a href="ndis-stepes.php" class="about-ndis-process indigo text-center">
               <img src="assets/img/6-steps-icon.svg" class="img-fluid" alt="">
               <h4>NDIS in 6 Easy Steps</h4>
               <p class="mb-0">While the NDIS application process can be complex, here are some basic
@@ -258,7 +258,7 @@
             </a>
           </div>
           <div class="col-sm-12 col-md-4">
-            <a href="#" class="about-ndis-process indigo text-center">
+            <a href="ndis-faq.php" class="about-ndis-process indigo text-center">
               <img src="assets/img/FAQs-icon.svg" class="img-fluid" alt="">
               <h4>NDIS FAQs</h4>
               <p class="mb-0">Have questions about the NDIS, your plan or funding? Our FAQs
