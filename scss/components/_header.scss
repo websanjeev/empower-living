@@ -59,11 +59,13 @@
       }
       a{
         color: $secondary;
+        font-weight: 500;
       }
     }
   }
 }
 .megamenu{
+  box-shadow: 0px 0px 16px rgba(0, 0, 0, 0.4);
   h4{
     margin-bottom: 20px;
   }
@@ -78,6 +80,7 @@
         margin-bottom: 20px;
         display: block;
         border-radius: 20px;
+        font-weight: 500;
       }
 
       &:last-child a{

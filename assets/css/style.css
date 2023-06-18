@@ -11028,8 +11028,12 @@ textarea.form-control-lg {
 }
 .col-megamenu ul li a {
   color: #4748be;
+  font-weight: 500;
 }
 
+.megamenu {
+  box-shadow: 0px 0px 16px rgba(0, 0, 0, 0.4);
+}
 .megamenu h4, .megamenu .h4 {
   margin-bottom: 20px;
 }
@@ -11041,6 +11045,7 @@ textarea.form-control-lg {
   margin-bottom: 20px;
   display: block;
   border-radius: 20px;
+  font-weight: 500;
 }
 .col-megamenu.services ul li:last-child a {
   margin-bottom: 0;
