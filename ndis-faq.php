@@ -103,7 +103,7 @@
         <div class="section-ndis green rounded-4">
             <div class="container">
                 <div class="row">
-                    <div class="col-sm-12 col-md-6">
+                    <div class="col-sm-12 col-md-12 col-lg-6">
                         <div class="ndis-left-wrapp">
                             <span><img src="assets/img/flag-gray.png" class="img-fluid" alt=""></span>
                             <h3>Thinking about applying for NDIS?</h3>
@@ -111,7 +111,7 @@
                                 the application process</p>
                         </div>
                     </div>
-                    <div class="col-sm-12 col-md-6">
+                    <div class="col-sm-12 col-md-12 col-lg-6">
                         <div class="ndis-right-wrapp">
                             <form>
                                 <div class="mb-3">

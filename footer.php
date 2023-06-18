@@ -2,7 +2,7 @@
   <section class="section-row">
     <div class="container-fluid">
       <div class="row align-items-center">
-        <div class="col-sm-12 col-md-8">
+        <div class="col-sm-12 col-md-12 col-lg-8">
           <div class="footer-top-block indigo">
             <h2 class="heading mb-3 text-dark">
               Unsure about where to <span class="text-secondary">start?</span>
@@ -14,20 +14,20 @@
                 <span>Call at</span> <span class="material-icons me-2 ms-2">call</span>
                 <span>1300 456 245</span>
               </button>
-              <a class="btn btn-outline-secondary" href="#" role="button">Make a Referral</a>
+              <a class="btn btn-outline-secondary" href="referral.php" role="button">Make a Referral</a>
             </div>
           </div>
         </div>
-        <div class="col-sm-12 col-md-4">
+        <div class="col-sm-12 col-md-12 col-lg-4">
           <div class="footer-top-block secondary">
             <h2 class="heading mb-3 text-white">
               Join our <span class="text-primary">team</span>
             </h2>
             <p class="text-center mx-auto text-white">We’re hiring and we want you to join our team! Apply now.</p>
             <div class="btn-wrapper">
-              <button class="btn btn-primary" role="button">
+              <a href="contact.php" class="btn btn-primary" role="button">
                 Join Now
-              </button>
+              </a>
             </div>
           </div>
         </div>
@@ -37,7 +37,7 @@
   <section class="section-row-small">
     <div class="container">
       <div class="row">
-        <div class="col-sm-12 col-md-4">
+        <div class="col-sm-12 col-md-12 col-lg-4">
           <div class="footer-block">
             <div class="footer-contact-content">
               <a href="index.php"><img src="assets/img/empower-living.svg" class="img-fluid" alt=""></a>
@@ -77,7 +77,7 @@
             <span class="copyright">Copyright © 2023, Empower Living</span>
           </div>
         </div>
-        <div class="col-sm-12 col-md-4">
+        <div class="col-sm-12 col-md-12 col-lg-4">
           <div class="footer-menu">
             <ul>
               <li>Services
@@ -98,7 +98,7 @@
             </ul>
           </div>
         </div>
-        <div class="col-sm-12 col-md-4">
+        <div class="col-sm-12 col-md-12 col-lg-4">
           <div class="footer-menu mb-4">
             <ul>
               <li>NDIS

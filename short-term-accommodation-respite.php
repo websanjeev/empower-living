@@ -121,7 +121,7 @@
       <div class="container">
         <h3 class="text-white">Your potential houses in Canberra</h3>
         <div class="row">
-          <div class="col-sm-12 col-md-4">
+          <div class="col-sm-12 col-md-6 col-lg-4">
             <a href="single-house.php" class="card-house-wrapp">
               <div class="card-house-image-wrapp">
                 <img src="assets/img/house/1.png" class="img-fluid" alt="">
@@ -130,7 +130,7 @@
               <p>Homes in the popular Gold Coast area you can make your own.</p>
             </a>
           </div>
-          <div class="col-sm-12 col-md-4">
+          <div class="col-sm-12 col-md-6 col-lg-4">
             <a href="single-house.php" class="card-house-wrapp">
               <div class="card-house-image-wrapp">
                 <img src="assets/img/house/2.png" class="img-fluid" alt="">
@@ -139,7 +139,7 @@
               <p>Homes in the popular Gold Coast area you can make your own.</p>
             </a>
           </div>
-          <div class="col-sm-12 col-md-4">
+          <div class="col-sm-12 col-md-6 col-lg-4">
             <a href="single-house.php" class="card-house-wrapp">
               <div class="card-house-image-wrapp">
                 <img src="assets/img/house/3.png" class="img-fluid" alt="">
@@ -148,7 +148,7 @@
               <p>Homes in the popular Gold Coast area you can make your own.</p>
             </a>
           </div>
-          <div class="col-sm-12 col-md-4">
+          <div class="col-sm-12 col-md-6 col-lg-4">
             <a href="single-house.php" class="card-house-wrapp">
               <div class="card-house-image-wrapp">
                 <img src="assets/img/house/1.png" class="img-fluid" alt="">
@@ -157,7 +157,7 @@
               <p>Homes in the popular Gold Coast area you can make your own.</p>
             </a>
           </div>
-          <div class="col-sm-12 col-md-4">
+          <div class="col-sm-12 col-md-6 col-lg-4">
             <a href="single-house.php" class="card-house-wrapp">
               <div class="card-house-image-wrapp">
                 <img src="assets/img/house/2.png" class="img-fluid" alt="">
@@ -166,7 +166,7 @@
               <p>Homes in the popular Gold Coast area you can make your own.</p>
             </a>
           </div>
-          <div class="col-sm-12 col-md-4">
+          <div class="col-sm-12 col-md-6 col-lg-4">
             <a href="single-house.php" class="card-house-wrapp">
               <div class="card-house-image-wrapp">
                 <img src="assets/img/house/3.png" class="img-fluid" alt="">
@@ -175,7 +175,7 @@
               <p>Homes in the popular Gold Coast area you can make your own.</p>
             </a>
           </div>
-          <div class="col-sm-12 col-md-4">
+          <div class="col-sm-12 col-md-6 col-lg-4">
             <a href="single-house.php" class="card-house-wrapp">
               <div class="card-house-image-wrapp">
                 <img src="assets/img/house/1.png" class="img-fluid" alt="">
@@ -184,7 +184,7 @@
               <p>Homes in the popular Gold Coast area you can make your own.</p>
             </a>
           </div>
-          <div class="col-sm-12 col-md-4">
+          <div class="col-sm-12 col-md-6 col-lg-4">
             <a href="single-house.php" class="card-house-wrapp">
               <div class="card-house-image-wrapp">
                 <img src="assets/img/house/2.png" class="img-fluid" alt="">

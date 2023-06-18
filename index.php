@@ -118,18 +118,18 @@
     <div class="services-block-wrapper">
       <div class="container">
         <div class="row">
-          <div class="col-sm-12 col-md-4">
+          <div class="col-sm-12 col-md-12 col-lg-4">
             <div class="services-block brown">
               <img src="assets/img/pexels-photo-71630682.png" class="img-flud" alt="" />
               <h4>Supported Independent Living (SIL)</h4>
               <p>Empowering Independence through supported living</p>
-              <div class="d-flex align-items-center justify-content-between">
-                <a class="btn btn-primary" href="#" role="button">View houses</a>
+              <div class="block-btn-wrapp">
+                <a class="btn btn-primary" href="supported-independent-living.php" role="button">View houses</a>
                 <a class="btn btn-outline-primary" href="#" role="button">Learn more</a>
               </div>
             </div>
           </div>
-          <div class="col-sm-12 col-md-4">
+          <div class="col-sm-12 col-md-12 col-lg-4">
             <div class="services-block secondary">
               <img src="assets/img/photo-1478061653917-455ba7f4a5412.png" class="img-flud" alt="" />
               <h4>Community Access</h4>
@@ -139,7 +139,7 @@
               </div>
             </div>
           </div>
-          <div class="col-sm-12 col-md-4">
+          <div class="col-sm-12 col-md-12 col-lg-4">
             <div class="services-block indigo">
               <img src="assets/img/istockphoto-470618414-612x6121.png" class="img-flud" alt="" />
               <h4>Higher-Intensity Mental Health Support</h4>
@@ -167,7 +167,7 @@
           Provide an NDIS referral form online to allow for efficient referrals
           for patients with disabilities.
         </p>
-        <a class="btn btn-primary" href="#" role="button">Make a Referral</a>
+        <a class="btn btn-primary" href="referral.php" role="button">Make a Referral</a>
       </div>
     </div>
   </div>

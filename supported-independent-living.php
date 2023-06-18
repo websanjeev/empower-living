@@ -55,7 +55,7 @@
     <div class="section-row-medium rounded-4 secondary">
       <div class="container">
         <div class="row">
-          <div class="col-sm-12 col-md-4">
+          <div class="col-sm-12 col-md-12 col-lg-4">
             <h3 class="heading mb-3 text-start">
               Eligibility
             </h3>
@@ -63,7 +63,7 @@
               under the Disability Support for Older Australians Program (DSOA).</p>
             <p class="mb-0">Below are the criteria set by the National Disability Insurance Agency (NDIA) to access SIL:</p>
           </div>
-          <div class="col-sm-12 col-md-8">
+          <div class="col-sm-12 col-md-12 col-lg-8">
             <div class="listed-wrapp mb-5">
               <ul>
                 <li>
@@ -130,7 +130,7 @@
       <div class="container">
         <h3 class="text-white">Your potential houses in Canberra</h3>
         <div class="row">
-          <div class="col-sm-12 col-md-4">
+          <div class="col-sm-12 col-md-6 col-lg-4">
             <a href="single-house.php" class="card-house-wrapp">
               <div class="card-house-image-wrapp">
                 <img src="assets/img/house/1.png" class="img-fluid" alt="">
@@ -139,7 +139,7 @@
               <p>Homes in the popular Gold Coast area you can make your own.</p>
             </a>
           </div>
-          <div class="col-sm-12 col-md-4">
+          <div class="col-sm-12 col-md-6 col-lg-4">
             <a href="single-house.php" class="card-house-wrapp">
               <div class="card-house-image-wrapp">
                 <img src="assets/img/house/2.png" class="img-fluid" alt="">
@@ -148,7 +148,7 @@
               <p>Homes in the popular Gold Coast area you can make your own.</p>
             </a>
           </div>
-          <div class="col-sm-12 col-md-4">
+          <div class="col-sm-12 col-md-6 col-lg-4">
             <a href="single-house.php" class="card-house-wrapp">
               <div class="card-house-image-wrapp">
                 <img src="assets/img/house/3.png" class="img-fluid" alt="">
@@ -157,7 +157,7 @@
               <p>Homes in the popular Gold Coast area you can make your own.</p>
             </a>
           </div>
-          <div class="col-sm-12 col-md-4">
+          <div class="col-sm-12 col-md-6 col-lg-4">
             <a href="single-house.php" class="card-house-wrapp">
               <div class="card-house-image-wrapp">
                 <img src="assets/img/house/1.png" class="img-fluid" alt="">
@@ -166,7 +166,7 @@
               <p>Homes in the popular Gold Coast area you can make your own.</p>
             </a>
           </div>
-          <div class="col-sm-12 col-md-4">
+          <div class="col-sm-12 col-md-6 col-lg-4">
             <a href="single-house.php" class="card-house-wrapp">
               <div class="card-house-image-wrapp">
                 <img src="assets/img/house/2.png" class="img-fluid" alt="">
@@ -175,7 +175,7 @@
               <p>Homes in the popular Gold Coast area you can make your own.</p>
             </a>
           </div>
-          <div class="col-sm-12 col-md-4">
+          <div class="col-sm-12 col-md-6 col-lg-4">
             <a href="single-house.php" class="card-house-wrapp">
               <div class="card-house-image-wrapp">
                 <img src="assets/img/house/3.png" class="img-fluid" alt="">
@@ -184,7 +184,7 @@
               <p>Homes in the popular Gold Coast area you can make your own.</p>
             </a>
           </div>
-          <div class="col-sm-12 col-md-4">
+          <div class="col-sm-12 col-md-6 col-lg-4">
             <a href="single-house.php" class="card-house-wrapp">
               <div class="card-house-image-wrapp">
                 <img src="assets/img/house/1.png" class="img-fluid" alt="">
@@ -193,7 +193,7 @@
               <p>Homes in the popular Gold Coast area you can make your own.</p>
             </a>
           </div>
-          <div class="col-sm-12 col-md-4">
+          <div class="col-sm-12 col-md-6 col-lg-4">
             <a href="single-house.php" class="card-house-wrapp">
               <div class="card-house-image-wrapp">
                 <img src="assets/img/house/2.png" class="img-fluid" alt="">

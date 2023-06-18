@@ -16,7 +16,7 @@
         </div>
 
         <div class="row gx-3">
-            <div class="col-sm-12 col-md-8">
+            <div class="col-sm-12 col-md-12 col-lg-8">
                 <div class="single-house-article-wrapp">
                     <div class="house-slide-wrapp">
                         <div class="house-item">
@@ -72,7 +72,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-sm-12 col-md-4">
+            <div class="col-sm-12 col-md-12 col-lg-4">
                 <div class="single-house-right">
                     <img src="assets/img/flag-green.png"  class="img-fluid" alt="">
                     <h3>Interested in touring this house?</h3>

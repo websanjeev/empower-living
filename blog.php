@@ -28,7 +28,7 @@
     </div>
     <div class="blog-post-wrapper">
       <div class="row">
-        <div class="col-sm-12 col-md-4 mb-4">
+        <div class="col-sm-12 col-md-6 col-lg-4 mb-4">
           <a href="#" class="blog-post-thumb gray-200">
             <div class="blog-post-image">
               <img src="assets/img/blog/blog-banner.png" class="img-fluid" alt="">
@@ -37,7 +37,7 @@
             <span>April 3, 2023</span>
           </a>
         </div>
-        <div class="col-sm-12 col-md-4 mb-4">
+        <div class="col-sm-12 col-md-6 col-lg-4 mb-4">
           <a href="#" class="blog-post-thumb gray-200">
             <div class="blog-post-image">
               <img src="assets/img/blog/blog-banner.png" class="img-fluid" alt="">
@@ -46,7 +46,7 @@
             <span>April 3, 2023</span>
           </a>
         </div>
-        <div class="col-sm-12 col-md-4 mb-4">
+        <div class="col-sm-12 col-md-6 col-lg-4 mb-4">
           <a href="#" class="blog-post-thumb gray-200">
             <div class="blog-post-image">
               <img src="assets/img/blog/blog-banner.png" class="img-fluid" alt="">
@@ -55,7 +55,7 @@
             <span>April 3, 2023</span>
           </a>
         </div>
-        <div class="col-sm-12 col-md-4 mb-4">
+        <div class="col-sm-12 col-md-6 col-lg-4 mb-4">
           <a href="#" class="blog-post-thumb gray-200">
             <div class="blog-post-image">
               <img src="assets/img/blog/blog-banner.png" class="img-fluid" alt="">
@@ -64,7 +64,7 @@
             <span>April 3, 2023</span>
           </a>
         </div>
-        <div class="col-sm-12 col-md-4 mb-4">
+        <div class="col-sm-12 col-md-6 col-lg-4 mb-4">
           <a href="#" class="blog-post-thumb gray-200">
             <div class="blog-post-image">
               <img src="assets/img/blog/blog-banner.png" class="img-fluid" alt="">
@@ -73,7 +73,7 @@
             <span>April 3, 2023</span>
           </a>
         </div>
-        <div class="col-sm-12 col-md-4 mb-4">
+        <div class="col-sm-12 col-md-6 col-lg-4 mb-4">
           <a href="#" class="blog-post-thumb gray-200">
             <div class="blog-post-image">
               <img src="assets/img/blog/blog-banner.png" class="img-fluid" alt="">

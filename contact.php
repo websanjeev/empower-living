@@ -7,7 +7,7 @@
     </div>
     <div class="contact-main-wrapper">
       <div class="row">
-        <div class="col-sm-12 col-md-4">
+        <div class="col-sm-12 col-md-12 col-lg-4">
           <div class="contact-main-block text-center gray-200">
             <div class="large-icon-wrapp">
               <img src="assets/img/messanger.png" class="img-fluid" alt="">
@@ -22,7 +22,7 @@
             </span>
           </div>
         </div>
-        <div class="col-sm-12 col-md-8">
+        <div class="col-sm-12 col-md-12 col-lg-8">
           <div class="contact-main-block indigo">
             <h4 class="text-left">I'd like to get in touch</h4>
             <form>
@@ -46,7 +46,7 @@
     </div>
     <div class="contact-block-wrapper">
       <div class="row">
-        <div class="col-sm-12 col-md-4">
+        <div class="col-sm-12 col-md-12 col-lg-4">
           <div class="contact-block-inner">
             <h4>Branch 1</h4>
             <ul>
@@ -61,7 +61,7 @@
             </ul>
           </div>
         </div>
-        <div class="col-sm-12 col-md-4">
+        <div class="col-sm-12 col-md-12 col-lg-4">
           <div class="contact-block-inner">
             <h4>Branch 2</h4>
             <ul>
@@ -76,7 +76,7 @@
             </ul>
           </div>
         </div>
-        <div class="col-sm-12 col-md-4">
+        <div class="col-sm-12 col-md-12 col-lg-4">
           <div class="contact-block-inner">
             <h4>Branch 3</h4>
             <ul>
