@@ -46,11 +46,43 @@
         object-fit: cover;
       }
     }
+}
 
-    .dropdown-menu {
-      position: absolute;
-      min-width: 1000px;
-      left: -500px;
-      top: 58px;
+.col-megamenu{
+ 
+  ul{
+    li{
+      margin-bottom: 15px;
+
+      &:last-child{
+        margin-bottom: 0;
+      }
+      a{
+        color: $secondary;
+      }
+    }
+  }
+}
+.megamenu{
+  h4{
+    margin-bottom: 20px;
+  }
+}
+.col-megamenu.services{
+  ul{
+    li{
+      a{
+        padding: 20px 15px;
+        background-color: $indigo;
+        color: $brown;
+        margin-bottom: 20px;
+        display: block;
+        border-radius: 20px;
+      }
+
+      &:last-child a{
+        margin-bottom: 0;
+      }
+    }
   }
 }

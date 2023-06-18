@@ -11019,11 +11019,31 @@ textarea.form-control-lg {
   height: 100%;
   object-fit: cover;
 }
-.main-navbar-wrapp .dropdown-menu {
-  position: absolute;
-  min-width: 1000px;
-  left: -500px;
-  top: 58px;
+
+.col-megamenu ul li {
+  margin-bottom: 15px;
+}
+.col-megamenu ul li:last-child {
+  margin-bottom: 0;
+}
+.col-megamenu ul li a {
+  color: #4748be;
+}
+
+.megamenu h4, .megamenu .h4 {
+  margin-bottom: 20px;
+}
+
+.col-megamenu.services ul li a {
+  padding: 20px 15px;
+  background-color: #97b9ff;
+  color: #172643;
+  margin-bottom: 20px;
+  display: block;
+  border-radius: 20px;
+}
+.col-megamenu.services ul li:last-child a {
+  margin-bottom: 0;
 }
 
 .hero-banner-inner {
@@ -12183,6 +12203,29 @@ textarea.form-control-lg {
   }
   .content-head {
     width: auto;
+  }
+}
+.navbar .megamenu {
+  padding: 1rem;
+}
+
+@media all and (min-width: 992px) {
+  .navbar .has-megamenu {
+    position: static !important;
+  }
+  .navbar .megamenu {
+    left: 0;
+    right: 0;
+    width: 100%;
+    margin-top: 0;
+  }
+}
+@media (max-width: 991px) {
+  .navbar.fixed-top .navbar-collapse,
+.navbar.sticky-top .navbar-collapse {
+    overflow-y: auto;
+    max-height: 90vh;
+    margin-top: 10px;
   }
 }
 

@@ -56,11 +56,11 @@
   .faq-wrapper .d-flex {
     display: block !important;
   }
-  .card-box{
+  .card-box {
     height: auto;
     margin-bottom: 12px;
   }
-  .single-house-article-head{
+  .single-house-article-head {
     flex-wrap: wrap;
   }
 }
@@ -133,7 +133,7 @@
   }
   .single-house-article-wrapp {
     margin-bottom: 20px;
-}
+  }
 }
 // ================================= //
 
@@ -159,4 +159,29 @@
 // ================================= //
 
 @include media-breakpoint-down(xxl) {
+}
+
+.navbar .megamenu {
+  padding: 1rem;
+}
+
+@media all and (min-width: 992px) {
+  .navbar .has-megamenu {
+    position: static !important;
+  }
+  .navbar .megamenu {
+    left: 0;
+    right: 0;
+    width: 100%;
+    margin-top: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .navbar.fixed-top .navbar-collapse,
+  .navbar.sticky-top .navbar-collapse {
+    overflow-y: auto;
+    max-height: 90vh;
+    margin-top: 10px;
+  }
 }
