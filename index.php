@@ -51,28 +51,28 @@
         <div class="available-service-list-wrapp">
           <ul>
             <li>
-              <a href="#">
+              <a href="individualized-living-options.php">
                 <span class="service-images"><img src="assets/img/service-icons/Individualized-Living-Options.png" class="img-fluid" alt="" />
                 </span>
                 <span>Individualized Living Options (ILO)</span>
               </a>
             </li>
             <li>
-              <a href="#">
+              <a href="short-term-accommodation-respite.php">
                 <span class="service-images"><img src="assets/img/service-icons/Short-Term-Accommodation-Respite.png" class="img-fluid" alt="" />
                 </span>
                 <span>Short Term Accommodation (STA)/ Respite</span>
               </a>
             </li>
             <li>
-              <a href="#">
+              <a href="cleaning-services.php">
                 <span class="service-images"><img src="assets/img/service-icons/Cleaning.png" class="img-fluid" alt="" />
                 </span>
                 <span>Cleaning</span>
               </a>
             </li>
             <li>
-              <a href="#">
+              <a href="life-skills-training.php">
                 <span class="service-images"><img src="assets/img/service-icons/Life-Skills-Training.png" class="img-fluid" alt="" />
                 </span>
                 <span>Life Skills Training</span>
@@ -85,28 +85,28 @@
     <div class="available-service-list-wrapp column-four">
       <ul>
         <li>
-          <a href="#">
+          <a href="high-personal-complex-care.php">
             <span class="service-images"><img src="assets/img/service-icons/High-Personal-Complex-Care.png" class="img-fluid" alt="" />
             </span>
             <span>High Personal & Complex Care</span>
           </a>
         </li>
         <li>
-          <a href="#">
+          <a href="case-management.php">
             <span class="service-images"><img src="assets/img/service-icons/Case-Management.png" class="img-fluid" alt="" />
             </span>
             <span>Case Management</span>
           </a>
         </li>
         <li>
-          <a href="#">
+          <a href="medium-term-accommodation.php">
             <span class="service-images"><img src="assets/img/service-icons/Medium-Term-Accommodation.png" class="img-fluid" alt="" />
             </span>
             <span>Medium Term Accommodation (MTA)</span>
           </a>
         </li>
         <li>
-          <a href="#">
+          <a href="support-coordination.php">
             <span class="service-images"><img src="assets/img/service-icons/Support-Coordination.png" class="img-fluid" alt="" />
             </span>
             <span>Support Coordination</span>
