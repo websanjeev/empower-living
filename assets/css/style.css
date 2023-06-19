@@ -11466,6 +11466,39 @@ textarea.form-control-lg {
   text-decoration: underline;
 }
 
+.messanger-wrapper {
+  position: fixed;
+  right: 10px;
+  bottom: 100px;
+}
+.messanger-wrapper .side-cnt-wrapp {
+  padding: 12px 20px;
+  background-color: rgba(221, 221, 221, 0.8666666667);
+  box-shadow: 0px 0px 16px rgba(0, 0, 0, 0.4);
+  border-radius: 20px;
+  margin-bottom: 12px;
+}
+.messanger-wrapper .side-cnt-wrapp .side-cnt-content {
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: 3px;
+}
+.messanger-wrapper .side-cnt-wrapp .side-cnt-content span.material-icons {
+  color: #4748be;
+}
+.messanger-wrapper .side-cnt-wrapp .side-cnt-content span {
+  color: #02bf92;
+  font-weight: 500;
+}
+.messanger-wrapper .side-cnt-wrapp span {
+  text-align: right;
+  display: block;
+}
+.messanger-wrapper img {
+  position: absolute;
+  right: 0;
+}
+
 .inner-banner-wrapp {
   padding: 50px 95px 50px 100px;
 }
