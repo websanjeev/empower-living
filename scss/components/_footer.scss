@@ -133,6 +133,8 @@
 
       span.material-icons {
         color: $secondary;
+        font-size: 30px;
+        margin-right: 4px;
       }
       span {
         color: $gray;
@@ -142,7 +144,7 @@
     span {
       text-align: right;
       display: block;
-  }
+    }
   }
   img {
     position: absolute;

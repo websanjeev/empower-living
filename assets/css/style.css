@@ -11485,6 +11485,8 @@ textarea.form-control-lg {
 }
 .messanger-wrapper .side-cnt-wrapp .side-cnt-content span.material-icons {
   color: #4748be;
+  font-size: 30px;
+  margin-right: 4px;
 }
 .messanger-wrapper .side-cnt-wrapp .side-cnt-content span {
   color: #02bf92;
