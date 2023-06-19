@@ -11076,7 +11076,7 @@ textarea.form-control-lg {
   padding-left: 0;
   margin-bottom: 0;
   display: flex;
-  align-items: baseline;
+  align-items: end;
   justify-content: space-between;
 }
 .hero-banner-inner .hero-banner-images-wrapp ul li {
@@ -11098,8 +11098,7 @@ textarea.form-control-lg {
 }
 
 .services-inner-wrapp {
-  background-image: url("/assets/img/service-available-bg.png");
-  background-size: cover;
+  position: relative;
 }
 .services-inner-wrapp h2, .services-inner-wrapp .h2,
 .services-inner-wrapp h4,
@@ -11151,6 +11150,13 @@ textarea.form-control-lg {
 .column-four ul {
   display: grid;
   grid-template-columns: auto auto auto auto;
+}
+
+.bg-overlay {
+  width: 280px;
+  height: 300px;
+  position: absolute;
+  left: 0;
 }
 
 .services-block-wrapper {

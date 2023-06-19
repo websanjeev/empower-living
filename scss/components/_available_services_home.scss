@@ -1,7 +1,5 @@
 .services-inner-wrapp {
-  background-image: url("/assets/img/service-available-bg.png");
-  background-size: cover;
-
+  position: relative;
   h2,
   h4 {
     margin-bottom: 28px;
@@ -61,4 +59,12 @@
     display: grid;
     grid-template-columns: auto auto auto auto;
   }
+}
+
+
+.bg-overlay {
+  width: 280px;
+  height: 300px;
+  position: absolute;
+  left: 0;
 }

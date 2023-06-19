@@ -35,6 +35,7 @@
 </section>
 <!-- ================================== -->
 <section class="section-row-large services-available-wrapper">
+  <div class="bg-overlay" style="background-image: url('assets/img/service-available-bg.png');"></div>
   <div class="container">
     <div class="row">
       <div class="col-sm-12 col-md-6">
