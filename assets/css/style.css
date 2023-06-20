@@ -11019,6 +11019,10 @@ textarea.form-control-lg {
   height: 100%;
   object-fit: cover;
 }
+.main-navbar-wrapp .navbar-nav .dropdown-menu {
+  top: 65px;
+  box-shadow: 0px 0px 16px rgba(0, 0, 0, 0.4);
+}
 
 .col-megamenu ul li {
   margin-bottom: 15px;
@@ -11048,6 +11052,13 @@ textarea.form-control-lg {
   font-weight: 500;
 }
 .col-megamenu.services ul li:last-child a {
+  margin-bottom: 0;
+}
+
+.col-megamenu.normal ul li {
+  margin-bottom: 35px;
+}
+.col-megamenu.normal ul li:last-child {
   margin-bottom: 0;
 }
 
@@ -12263,7 +12274,7 @@ textarea.form-control-lg {
     left: 0;
     right: 0;
     width: 100%;
-    margin-top: 0;
+    margin-top: 8px;
   }
 }
 @media (max-width: 991px) {

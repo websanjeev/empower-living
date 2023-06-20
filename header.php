@@ -59,7 +59,7 @@
                         </div> <!-- col-megamenu.// -->
                       </div><!-- end col-3 -->
                       <div class="col-lg-4 col-sm-12">
-                        <div class="col-megamenu">
+                        <div class="col-megamenu normal">
                           <ul class="list-unstyled">
                             <li><a href="individualized-living-options.php">Individualized living options (ILO)</a></li>
                             <li><a href="short-term-accommodation-respite.php">Short Term Accommodation(STA)/Respite</a></li>
@@ -69,7 +69,7 @@
                         </div> <!-- col-megamenu.// -->
                       </div><!-- end col-3 -->
                       <div class="col-lg-4 col-sm-12">
-                        <div class="col-megamenu">
+                        <div class="col-megamenu normal">
                           <ul class="list-unstyled">
                             <li><a href="high-personal-complex-care.php">High Personal & Complex Care</a></li>
                             <li><a href="case-management.php">Case Management</a></li>
