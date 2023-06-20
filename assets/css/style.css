@@ -11071,6 +11071,10 @@ textarea.form-control-lg {
   margin-bottom: 0;
 }
 
+.navbar .megamenu {
+  margin-top: 18px;
+}
+
 .hero-banner-inner {
   padding: 60px 100px 0;
   background-color: #015057;
@@ -12255,6 +12259,11 @@ textarea.form-control-lg {
   .main-navbar-wrapp .navbar-nav {
     margin: 20px 0;
   }
+  .navbar-toggler,
+.navbar-toggler:focus {
+    border: none;
+    box-shadow: none;
+  }
 }
 @media (max-width: 1199.98px) {
   .about-head {
@@ -12286,7 +12295,6 @@ textarea.form-control-lg {
     left: 0;
     right: 0;
     width: 100%;
-    margin-top: 8px;
   }
 }
 @media (max-width: 991px) {
