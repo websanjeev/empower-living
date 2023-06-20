@@ -12198,6 +12198,9 @@ textarea.form-control-lg {
   .single-house-article-head {
     flex-wrap: wrap;
   }
+  .dropdown-item {
+    white-space: pre-wrap;
+  }
 }
 @media (max-width: 991.98px) {
   .hero-banner-inner h1, .hero-banner-inner .h1 {
@@ -12263,6 +12266,12 @@ textarea.form-control-lg {
 .navbar-toggler:focus {
     border: none;
     box-shadow: none;
+  }
+  .main-navbar-wrapp .dropdown-menu li {
+    margin-bottom: 12px;
+  }
+  .main-navbar-wrapp .dropdown-menu li:last-child {
+    margin-bottom: 0;
   }
 }
 @media (max-width: 1199.98px) {
