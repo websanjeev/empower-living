@@ -123,17 +123,17 @@
           </div>
           <div class="footer-menu mb-4">
             <ul>
-              <li>Blog</li>
+              <li><a href="#">Blog</a></li>
             </ul>
           </div>
           <div class="footer-menu mb-4">
             <ul>
-              <li>Trainings</li>
+              <li><a href="#">Trainings</a></li>
             </ul>
           </div>
           <div class="footer-menu">
             <ul>
-              <li>Contact</li>
+              <li><a href="#">Contact</a></li>
             </ul>
           </div>
         </div>
@@ -142,7 +142,7 @@
   </section>
 </footer>
 
-<div class="messanger-wrapper">
+<!-- <div class="messanger-wrapper">
   <div class="side-cnt-wrapp">
     <div class="side-cnt-content">
     <span class="material-icons">call</span>
@@ -151,7 +151,7 @@
     <span>or Need Help?</span>
   </div>
   <img src="assets/img/messanger.png" class="img-fluid" alt="">
-</div>
+</div> -->
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4" crossorigin="anonymous">

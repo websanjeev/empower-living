@@ -44,7 +44,7 @@
           as possible while keeping you safe and secure.</p>
       </div>
       <div class="col-sm-12 col-md-3">
-        <img src="assets/img/Frame-7587.png" class="img-fluid" alt="">
+        <img src="assets/img/sil.png" class="img-fluid" alt="">
       </div>
     </div>
   </div>
@@ -77,7 +77,7 @@
                 </li>
               </ul>
             </div>
-            <p>If you meet the criteria set by NDIA and have the requisite funding in your NDIS plan, then SIL can be an invaluable tool in helping you achieve greater independence.</p>
+            <p class="fs-6">If you meet the criteria set by NDIA and have the requisite funding in your NDIS plan, then SIL can be an invaluable tool in helping you achieve greater independence.</p>
           </div>
         </div>
       </div>

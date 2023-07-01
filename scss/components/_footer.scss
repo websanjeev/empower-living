@@ -97,6 +97,12 @@
       color: $secondary;
       font-weight: 500;
 
+      a{
+        &:hover{
+          text-decoration: underline;
+        }
+      }
+
       ul {
         li {
           margin-bottom: 16px;

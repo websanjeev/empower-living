@@ -3823,7 +3823,7 @@ textarea.form-control-lg {
   --bs-navbar-toggler-padding-y: 0.25rem;
   --bs-navbar-toggler-padding-x: 0.75rem;
   --bs-navbar-toggler-font-size: 25px;
-  --bs-navbar-toggler-icon-bg: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba%280, 0, 0, 0.55%29' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+  --bs-navbar-toggler-icon-bg: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba%2871, 72, 190, 0.75%29' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
   --bs-navbar-toggler-border-color: rgba(0, 0, 0, 0.1);
   --bs-navbar-toggler-border-radius: 20px;
   --bs-navbar-toggler-focus-width: 0.25rem;
@@ -10914,6 +10914,10 @@ textarea.form-control-lg {
   padding: 40px 0;
 }
 
+.fs-6 {
+  font-size: 16px !important;
+}
+
 .form-select-lg {
   font-size: 20px;
 }
@@ -10923,6 +10927,11 @@ textarea.form-control-lg {
 }
 .btn-block span {
   vertical-align: middle;
+}
+
+.btn-primary:hover {
+  background-color: #f99c1f;
+  border-color: #f99c1f;
 }
 
 .search-wrapp ::placeholder {
@@ -11022,15 +11031,26 @@ textarea.form-control-lg {
 .main-navbar-wrapp ul li {
   margin-right: 25px;
 }
+.main-navbar-wrapp ul li a {
+  color: #212121;
+  font-weight: 500;
+}
 .main-navbar-wrapp ul li:last-child {
   margin-right: 0px;
 }
 .main-navbar-wrapp .dropdown-menu li {
   margin-right: 0;
 }
+.main-navbar-wrapp .dropdown-menu li a {
+  color: #4748be;
+}
 .main-navbar-wrapp .navbar-nav .dropdown-menu {
   top: 65px;
   box-shadow: 0px 0px 16px rgba(0, 0, 0, 0.4);
+}
+
+.dropdown-menu-end li a {
+  padding: 10px 20px;
 }
 
 .col-megamenu ul li {
@@ -11042,6 +11062,9 @@ textarea.form-control-lg {
 .col-megamenu ul li a {
   color: #4748be;
   font-weight: 500;
+}
+.col-megamenu ul li a:hover {
+  text-decoration: underline;
 }
 
 .megamenu {
@@ -11059,6 +11082,9 @@ textarea.form-control-lg {
   display: block;
   border-radius: 20px;
   font-weight: 500;
+}
+.col-megamenu.services ul li a:hover {
+  background-color: #EEEEEE;
 }
 .col-megamenu.services ul li:last-child a {
   margin-bottom: 0;
@@ -11195,6 +11221,7 @@ textarea.form-control-lg {
   height: 172px;
   object-fit: cover;
   margin-bottom: 20px;
+  border-radius: 20px;
 }
 .services-block-wrapper .services-block h4, .services-block-wrapper .services-block .h4 {
   color: #ffffff;
@@ -11232,7 +11259,7 @@ textarea.form-control-lg {
 }
 .referral-main-wrapper .referral-right {
   width: 50%;
-  padding: 20px 10px;
+  padding: 20px;
   border-radius: 20px;
   display: flex;
   align-items: center;
@@ -11385,6 +11412,7 @@ textarea.form-control-lg {
   font-size: 24px;
 }
 .asked-questions-wrapp .accordion-button span {
+  font-size: 24px;
   margin-right: 10px;
 }
 .asked-questions-wrapp .accordion-button:not(.collapsed):after {
@@ -11478,6 +11506,9 @@ textarea.form-control-lg {
   list-style: none;
   color: #4748be;
   font-weight: 500;
+}
+.footer-menu ul li a:hover {
+  text-decoration: underline;
 }
 .footer-menu ul li ul li {
   margin-bottom: 16px;
@@ -11778,8 +11809,11 @@ textarea.form-control-lg {
   display: block;
   margin-bottom: 15px;
 }
-.stepes-wrapp .stepes-content-wrapp p span {
+.stepes-wrapp .stepes-content-wrapp p a {
   color: #02bf92;
+}
+.stepes-wrapp .stepes-content-wrapp p a:hover {
+  text-decoration: underline;
 }
 
 .faq-wrapper .nav-pills .nav-link {
@@ -12201,6 +12235,38 @@ textarea.form-control-lg {
   .dropdown-item {
     white-space: pre-wrap;
   }
+  .services-block .block-btn-wrapp {
+    display: grid !important;
+    gap: 1rem !important;
+    justify-content: inherit !important;
+  }
+  .w-75 {
+    width: 100% !important;
+  }
+  .navbar .megamenu {
+    margin-top: 0px;
+  }
+  .col-megamenu.normal ul li {
+    margin-bottom: 20px;
+  }
+  .col-megamenu.normal ul li a {
+    padding: 0px;
+  }
+  .col-megamenu.services ul li a {
+    padding: 0;
+    background-color: transparent;
+    margin-bottom: 0;
+    color: #4748be;
+  }
+  .dropdown-menu li {
+    margin-bottom: 20px;
+  }
+  .main-navbar-wrapp .dropdown-menu li a {
+    padding: 5px 15px;
+  }
+  .blog-banner-image {
+    margin-bottom: 20px;
+  }
 }
 @media (max-width: 991.98px) {
   .hero-banner-inner h1, .hero-banner-inner .h1 {
@@ -12293,7 +12359,7 @@ textarea.form-control-lg {
   }
 }
 .navbar .megamenu {
-  padding: 1rem;
+  padding: 25px;
 }
 
 @media all and (min-width: 992px) {

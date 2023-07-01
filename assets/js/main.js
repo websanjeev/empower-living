@@ -16,7 +16,7 @@
         slidesToShow: 3,
         slidesToScroll: 3,
         autoplay: true,
-        autoplaySpeed: 4000,
+        autoplaySpeed: 3000,
 
         responsive: [
           {
@@ -42,7 +42,7 @@
     $('.house-slide-wrapp').slick({
       infinite: true,
       autoplay: true,
-      autoplaySpeed: 4000
+      autoplaySpeed: 3000
     });
 
 
@@ -52,7 +52,7 @@
       slidesToShow: 3,
       slidesToScroll: 3,
       autoplay: true,
-      autoplaySpeed: 4000,
+      autoplaySpeed: 3000,
 
       responsive: [
         {
@@ -79,7 +79,7 @@
       slidesToShow: 2,
       slidesToScroll: 2,
       autoplay: true,
-      autoplaySpeed: 4000,
+      autoplaySpeed: 3000,
 
       responsive: [
         {
@@ -106,7 +106,7 @@
         slidesToShow: 3,
         slidesToScroll: 3,
         autoplay: true,
-        autoplaySpeed: 4000,
+        autoplaySpeed: 3000,
 
         responsive: [
           {

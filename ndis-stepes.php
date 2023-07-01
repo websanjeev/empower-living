@@ -22,7 +22,7 @@
                     <span class="head">Step 1</span>
                     <h4>Check your eligibility</h4>
                     <p>Before applying for the NDIS, check if you meet the eligibility criteria.
-                        You can find the eligibility requirements on the <span>NDIS website</span> or by contacting the NDIS.</p>
+                        You can find the eligibility requirements on the <a href="#">NDIS website</a> or by contacting the NDIS.</p>
                     <p class="mb-0">To be eligible for NDIS support, an individual must have a permanent and significant
                         disability that affects their ability to participate in everyday activities.
                         They must also be an Australian citizen or permanent resident, and meet other eligibility criteria.</p>
@@ -38,7 +38,7 @@
                 <div class="stepes-content-wrapp">
                     <span class="head">Step 2</span>
                     <h4>Contact the NDIS</h4>
-                    <p class="mb-0">If you think you're eligible for the NDIS, contact the NDIS on <span>1800-800-110</span> to
+                    <p class="mb-0">If you think you're eligible for the NDIS, contact the NDIS on <a href="tel:1800-800-110">1800-800-110</a> to
                         request an Access Request Form.</p>
                 </div>
             </div>
@@ -52,8 +52,8 @@
                 <div class="stepes-content-wrapp">
                     <span class="head">Step 3</span>
                     <h4>Complete the Access Request Form</h4>
-                    <p class="mb-0">Fill out the Access Request Form and provide supporting evidence, such as medical 
-                        reports, assessments, or other documentation that shows you have a permanent and 
+                    <p class="mb-0">Fill out the Access Request Form and provide supporting evidence, such as medical
+                        reports, assessments, or other documentation that shows you have a permanent and
                         significant disability.</p>
                 </div>
             </div>

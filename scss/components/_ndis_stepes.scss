@@ -42,8 +42,12 @@
             margin-bottom: 15px;
         }
         p{
-            span{
+            a{
                 color: $gray;
+
+                &:hover{
+                    text-decoration: underline;
+                }
             }
         }
     }

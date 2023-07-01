@@ -5,7 +5,7 @@
     <div class="hero-banner-inner">
       <h1 class="text-white">
         Live Better, Reach Higher <br />
-        <span class="material-icons md-92">sentiment_satisfied </span>
+        <span class="material-icons md-92">sentiment_satisfied_alt </span>
         <span class="text-primary">Empowering You</span>
       </h1>
       <p>
@@ -89,7 +89,7 @@
           <a href="high-personal-complex-care.php">
             <span class="service-images"><img src="assets/img/service-icons/High-Personal-Complex-Care.png" class="img-fluid" alt="" />
             </span>
-            <span>High Personal & Complex Care</span>
+            <span>High Personal & <br> Complex Care</span>
           </a>
         </li>
         <li>
@@ -103,7 +103,7 @@
           <a href="medium-term-accommodation.php">
             <span class="service-images"><img src="assets/img/service-icons/Medium-Term-Accommodation.png" class="img-fluid" alt="" />
             </span>
-            <span>Medium Term Accommodation (MTA)</span>
+            <span>Medium Term <br> Accommodation (MTA)</span>
           </a>
         </li>
         <li>
@@ -182,7 +182,7 @@
           Why choose <span class="text-primary">Empower Living?</span>
         </h2>
         <div class="row">
-          <div class="col-sm-12 col-md-8">
+          <div class="col-sm-12 col-md-12 col-lg-8">
             <div class="text-white">
               <p>
                 At Empower Living, we strive to create a safe and supportive
@@ -198,7 +198,7 @@
               </p>
             </div>
           </div>
-          <div class="col-sm-12 col-md-4">
+          <div class="col-sm-12 col-md-12 col-lg-4">
             <div class="listed-wrapp">
               <ul>
                 <li>
@@ -236,7 +236,7 @@
 <!-- ================================== -->
 <section class="mb-5">
   <div class="container-fluid">
-    <div class="section-row-medium brown">
+    <div class="section-row-medium rounded-4 brown">
       <div class="container">
         <h2 class="heading mb-3 text-white">About NDIS & Process</h2>
         <p class="text-white w-75 text-center mx-auto mb-5">As a leading NDIS provider with over 30 years experience, we’re here to help you live the way you
