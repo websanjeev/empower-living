@@ -11628,10 +11628,14 @@ textarea.form-control-lg {
   overflow: hidden;
   margin-bottom: 15px;
 }
+.card-house-wrapp .card-house-image-wrapp:hover img {
+  transform: scale(1.15);
+}
 .card-house-wrapp .card-house-image-wrapp img {
   width: 100%;
   height: 100%;
   object-fit: cover;
+  transition: 0.4s;
 }
 
 .card-box-wrapper {
@@ -11643,6 +11647,7 @@ textarea.form-control-lg {
   padding: 40px 28px;
   background-color: #97b9ff;
   border-radius: 20px;
+  transition: 0.4s;
 }
 .card-box span {
   padding: 12px 28px;
@@ -11926,10 +11931,14 @@ textarea.form-control-lg {
   overflow: hidden;
   margin-bottom: 15px;
 }
+.blog-post-wrapper .blog-post-thumb .blog-post-image:hover img {
+  transform: scale(1.15);
+}
 .blog-post-wrapper .blog-post-thumb .blog-post-image img {
   width: 100%;
   height: 100%;
   object-fit: cover;
+  transition: 0.4s;
 }
 .blog-post-wrapper .blog-post-thumb h4, .blog-post-wrapper .blog-post-thumb .h4 {
   margin-bottom: 20px;
